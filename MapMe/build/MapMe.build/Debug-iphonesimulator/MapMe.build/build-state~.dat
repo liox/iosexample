@@ -1,0 +1,341 @@
+TMapMe
+v7
+r0
+t294674580.688496
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/Info.plist" MapMe-Info.plist
+cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib"
+cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib"
+cProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch.gch MapMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapLocation.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MKMapView-CoordsDisplay.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe" normal i386
+cGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe"
+cTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004BB7891300000000000000EE
+t1270319379
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDEE58000000000004AFE0
+t1253961304
+s307168
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDEE5400000000000001AF
+t1253961300
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004ABDEF74000000000000017D
+t1253961588
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004ABDEF82000000000010EB60
+t1253961602
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.h
+c000000004B1183230000000000000081
+t1259438883
+s129
+i<MapKit/MapKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m
+c000000004B11832300000000000003BB
+t1259438883
+s955
+i"MKMapView-CoordsDisplay.h"
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.h
+c000000004B1183230000000000000203
+t1259438883
+s515
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m
+c000000004B118323000000000000064F
+t1259438883
+s1615
+i"MapLocation.h"
+i<MapKit/MapKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.h
+c000000004BE02912000000000000016E
+t1272981778
+s366
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m
+c000000004B1183230000000000000254
+t1259438883
+s596
+i"MapMeAppDelegate.h"
+i"MapMeViewController.h"
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.h
+c000000004B1183230000000000000284
+t1259438883
+s644
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m
+c000000004BE011EC00000000000018E7
+t1272975852
+s6375
+i"MapMeViewController.h"
+i"MapLocation.h"
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib
+c000000004B1183230000000000002438
+t1259438883
+s9272
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib
+c000000004B1183230000000000006322
+t1259438883
+s25378
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMe_Prefix.pch
+c000000004B11832300000000000000B3
+t1259438883
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app
+t1272981780
+s238
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app.dSYM
+t1272981780
+s102
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/Info.plist
+t1272981778
+s585
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MainWindow.nib
+t1272981778
+s1475
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe
+t1272981780
+s34468
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMeViewController.nib
+t1272981779
+s3973
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/PkgInfo
+t1272981778
+s8
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MKMapView-CoordsDisplay.o
+t1272981780
+s9580
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapLocation.o
+t1272981780
+s17856
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMe.LinkFileList
+c000000004BE029120000000000000477
+t1272981778
+s1143
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeAppDelegate.o
+t1272981780
+s38812
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeViewController.o
+t1272981780
+s57508
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/main.o
+t1272981780
+s6148
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m
+c000000004B118323000000000000015B
+t1259438883
+s347
+i<UIKit/UIKit.h>
+
+N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch.gch
+t1272981780
+s13026768
+
+NMapMe-Info.plist
+c000000004B118323000000000000038D
+t1259438883
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294674578#294674578#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MKMapView-CoordsDisplay.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674580.427579
+e294674580.478039
+r1
+xCompileC
+xbuild/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MKMapView-CoordsDisplay.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@180"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m294674580#294674580#0(0"0(0#0#172"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m4300911832#2987"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MKMapView-CoordsDisplay.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MKMapView-CoordsDisplay.o"0#
+
+CCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapLocation.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674580.349334
+e294674580.427474
+r1
+xCompileC
+xbuild/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapLocation.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@168"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m294674580#294674580#0(0"0(0#0#160"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m4300911832#2963"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapLocation.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapLocation.o"0#
+
+CCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674580.266160
+e294674580.349226
+r1
+xCompileC
+xbuild/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeAppDelegate.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@173"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m294674580#294674580#0(0"0(0#0#165"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m4300911832#2973"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeAppDelegate.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeAppDelegate.o"0#
+
+CCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674580.336193
+e294674580.441498
+r1
+xCompileC
+xbuild/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeViewController.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@176"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m294674580#294674580#0(0"0(0#0#168"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m4300911832#2979"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/Classes/MapMeViewController.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMeViewController.o"0#
+
+CCompileC build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674580.264967
+e294674580.335919
+r1
+xCompileC
+xbuild/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/main.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@153"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m294674580#294674580#0(0"0(0#0#145"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m4300911832#2941"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/main.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib"
+s294674578.400516
+e294674578.942494
+r1
+xCompileXIB
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294674578#294674578#0(0"0(0#0#153"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib4300911832#786"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MainWindow.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MainWindow.xib"0#
+
+CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib"
+s294674578.401227
+e294674579.162439
+r1
+xCompileXIB
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib
+lSLF07#2@34"CompileXIB MapMeViewController.xib294674578#294674579#0(0"0(0#0#162"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib4300911832#804"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMeViewController.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMeViewController.xib"0#
+
+CGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe"
+s294674580.669578
+e294674580.685866
+r1
+xGenerateDSYMFile
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app.dSYM
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/MapMe.app.dSYM build/Debug-iphonesimulator/MapMe.app/MapMe294674580#294674580#0(0"0(0#0#182"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe4300911832#683"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app.dSYM"0#
+
+CLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe" normal i386
+s294674580.478141
+e294674580.669457
+r1
+xLd
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe
+xnormal
+xi386
+lSLF07#2@187"Link /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe294674580#294674580#0(0"0(0#0#0"4300911832#1406"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/Objects-normal/i386/MapMe.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/MapMe"0#
+
+CProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/Info.plist" MapMe-Info.plist
+s294674578.375447
+e294674578.400430
+r1
+xProcessInfoPlistFile
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/Info.plist
+xMapMe-Info.plist
+lSLF07#2@24"Process MapMe-Info.plist294674578#294674578#0(0"0(0#0#155"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMe-Info.plist4300911832#779"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapMe-Info.plist -genpkginfo "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app/Info.plist"0#
+
+CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch.gch MapMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294674579.162556
+e294674580.264732
+r1
+xProcessPCH
+x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch.gch
+xMapMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile MapMe_Prefix.pch294674579#294674580#0(0"0(0#0#155"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMe_Prefix.pch4300911832#2733"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/MapMe-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/MapMe.build/Debug-iphonesimulator/MapMe.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/MapMe_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapMe_Prefix-dghldgsggptvhicpbhfofhbmyzis/MapMe_Prefix.pch.gch0#
+
+CTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app"
+s294674580.685958
+e294674580.688467
+r1
+xTouch
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app
+lSLF07#2@182"Touch /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app294674580#294674580#0(0"0(0#0#0"4300911832#480"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/iPhone Books/IPhoneProgrammingBase/More iPhone 3 Development March 30 2009/11 - MapMe/build/Debug-iphonesimulator/MapMe.app"0#
+

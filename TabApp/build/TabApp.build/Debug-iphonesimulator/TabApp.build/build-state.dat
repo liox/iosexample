@@ -1,0 +1,808 @@
+TTabApp
+v7
+r0
+t326024220.078348
+cCheck dependencies
+cProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist TabApp-Info.plist
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/MainWindow.xib
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/SecondView.xib
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/FirstView.xib
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/TerzoView.xib
+cProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch.gch TabApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp normal i386
+cGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+cTouch /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004CA6F0FF0000000000000132
+t1286009087
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/liox/Desktop/TabApp/Classes/FirstViewController.h
+c000000004C8AA68A00000000000000E6
+t1284155018
+s230
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/TabApp/Classes/FirstViewController.m
+c000000004C8AA68A00000000000005AD
+t1284155018
+s1453
+i"FirstViewController.h"
+
+N/Users/liox/Desktop/TabApp/Classes/MKTouch.h
+c000000004C8AB2D100000000000000D0
+t1284158161
+s208
+i<Foundation/Foundation.h>
+
+N/Users/liox/Desktop/TabApp/Classes/MKTouch.m
+c000000004C8AB2D100000000000000B7
+t1284158161
+s183
+i"MKTouch.h"
+
+N/Users/liox/Desktop/TabApp/Classes/MKTouch.xib
+c000000004C8AB27A0000000000001850
+t1284158074
+s6224
+
+N/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.h
+c000000004C8B5B5700000000000001E7
+t1284201303
+s487
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m
+c000000004C8AA68A0000000000000C2E
+t1284155018
+s3118
+i"TabAppAppDelegate.h"
+
+N/Users/liox/Desktop/TabApp/FirstView.xib
+c000000004C8AB37F00000000000049D0
+t1284158335
+s18896
+
+N/Users/liox/Desktop/TabApp/MainWindow.xib
+c000000004C8AAE320000000000007424
+t1284156978
+s29732
+
+N/Users/liox/Desktop/TabApp/SecondView.xib
+c000000004C8AADA800000000000049CE
+t1284156840
+s18894
+
+N/Users/liox/Desktop/TabApp/TabApp_Prefix.pch
+c000000004C8AA68A00000000000000B5
+t1284155018
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/TabApp/TerzoView.xib
+c000000004C8AB3740000000000004880
+t1284158324
+s18560
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+t1284158326
+s306
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+t1284157943
+s102
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/FirstView.nib
+t1284155024
+s1707
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist
+t1284155024
+s587
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/MKTouch.nib
+t2
+s0
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/MainWindow.nib
+t1284156983
+s1971
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/PkgInfo
+t1284155024
+s8
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/SecondView.nib
+t1284156849
+s1706
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+t1284157943
+s16944
+
+N/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TerzoView.nib
+t1284158326
+s1912
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+t1284155026
+s34332
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/MKTouch.o
+t2
+s0
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList
+c000000004C8AA6900000000000000160
+t1284155024
+s352
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+t1284157943
+s51044
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+t1284155026
+s6280
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/FirstViewController.plist
+t1284157444
+s276
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/MKTouch.plist
+t2
+s0
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/TabAppAppDelegate.plist
+t1284157943
+s276
+
+N/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/main.plist
+t1284157444
+s276
+
+N/Users/liox/Desktop/TabApp/main.m
+c000000004C8AA68A0000000000000161
+t1284155018
+s353
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.h
+c000000004C8AA68A00000000000000E6
+t1284155018
+s230
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m
+c000000004C8AA68A00000000000005AD
+t1284155018
+s1453
+i"FirstViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.h
+c000000004C8B5B5600000000000001E7
+t1284201302
+s487
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m
+c000000004C8AA68A0000000000000C2E
+t1284155018
+s3118
+i"TabAppAppDelegate.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/FirstView.xib
+c000000004C8AB37E00000000000049D0
+t1284158334
+s18896
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/MainWindow.xib
+c000000004C8AAE320000000000007424
+t1284156978
+s29732
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/SecondView.xib
+c000000004C8AADA800000000000049CE
+t1284156840
+s18894
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/TabApp_Prefix.pch
+c000000004C8AA68A00000000000000B5
+t1284155018
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/TerzoView.xib
+c000000004C8AB3740000000000004880
+t1284158324
+s18560
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app
+t1304331420
+s306
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+t1304331420
+s102
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/FirstView.nib
+t1286267342
+s1707
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist
+t1284155024
+s587
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/MainWindow.nib
+t1284156982
+s1971
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/PkgInfo
+t1284155024
+s8
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/SecondView.nib
+t1284156848
+s1706
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+t1304331420
+s17028
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TerzoView.nib
+t1284158326
+s1912
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+t1304331419
+s34360
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList
+c000000004DBE849A000000000000018A
+t1304331418
+s394
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+t1304331419
+s51072
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+t1304331419
+s6308
+
+N/Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m
+c000000004C8AA68A0000000000000161
+t1284155018
+s353
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.h
+c000000004C8AA68A00000000000000E6
+t1284155018
+s230
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m
+c000000004C8AA68A00000000000005AD
+t1284155018
+s1453
+i"FirstViewController.h"
+
+N/Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.h
+c000000004C8B5B5600000000000001E7
+t1284201302
+s487
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m
+c000000004C8AA68A0000000000000C2E
+t1284155018
+s3118
+i"TabAppAppDelegate.h"
+
+N/Users/vincenzo/Desktop/TabApp/FirstView.xib
+c000000004C8AB37E00000000000049D0
+t1284158334
+s18896
+
+N/Users/vincenzo/Desktop/TabApp/MainWindow.xib
+c000000004C8AAE320000000000007424
+t1284156978
+s29732
+
+N/Users/vincenzo/Desktop/TabApp/SecondView.xib
+c000000004C8AADA800000000000049CE
+t1284156840
+s18894
+
+N/Users/vincenzo/Desktop/TabApp/TabApp_Prefix.pch
+c000000004C8AA68A00000000000000B5
+t1284155018
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/TabApp/TerzoView.xib
+c000000004C8AB3740000000000004880
+t1284158324
+s18560
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+t1286267344
+s306
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+t1286267344
+s102
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/FirstView.nib
+t1286267342
+s1707
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist
+t1284155024
+s587
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/MainWindow.nib
+t1284156982
+s1971
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/PkgInfo
+t1284155024
+s8
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/SecondView.nib
+t1284156848
+s1706
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+t1286267344
+s16968
+
+N/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TerzoView.nib
+t1284158326
+s1912
+
+N/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+t1286267344
+s34340
+
+N/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList
+c000000004CAAE1CE000000000000016C
+t1286267342
+s364
+
+N/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+t1286267344
+s51052
+
+N/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+t1286267344
+s6288
+
+N/Users/vincenzo/Desktop/TabApp/main.m
+c000000004C8AA68A0000000000000161
+t1284155018
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch.gch
+t1284155025
+s15232016
+
+N/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch.pth
+t1284157443
+s2690348
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch.gch
+t1286267343
+s15232016
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch.gch
+t1304331419
+s15232016
+
+NTabApp-Info.plist
+c000000004C8AA68A000000000000038D
+t1284155018
+s909
+
+CAnalyze /Users/liox/Desktop/TabApp/Classes/FirstViewController.m
+s305850244.051130
+e305850244.093312
+r1
+xAnalyze
+x/Users/liox/Desktop/TabApp/Classes/FirstViewController.m
+lSLF07#2@64"Analyze /Users/liox/Desktop/TabApp/Classes/FirstViewController.m305850244#305850244#0(0"0(0#0#56"/Users/liox/Desktop/TabApp/Classes/FirstViewController.m8628842144#1796"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch --analyze /Users/liox/Desktop/TabApp/Classes/FirstViewController.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/FirstViewController.plist0#
+
+CAnalyze /Users/liox/Desktop/TabApp/Classes/MKTouch.m
+r0
+
+CAnalyze /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m
+s305850743.648388
+e305850743.715021
+r1
+xAnalyze
+x/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m
+lSLF07#2@62"Analyze /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m305850743#305850743#0(0"0(0#0#54"/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m8628473632#1792"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch --analyze /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/TabAppAppDelegate.plist0#
+
+CAnalyze /Users/liox/Desktop/TabApp/main.m
+s305850243.971863
+e305850244.051032
+r1
+xAnalyze
+x/Users/liox/Desktop/TabApp/main.m
+lSLF07#2@41"Analyze /Users/liox/Desktop/TabApp/main.m305850243#305850244#0(0"0(0#0#33"/Users/liox/Desktop/TabApp/main.m8629628384#1758"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch --analyze /Users/liox/Desktop/TabApp/main.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326024218#326024218#0(0"0(0#1#0"8616648320#0"0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o /Users/liox/Desktop/TabApp/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305847826.115235
+e305847826.174352
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+x/Users/liox/Desktop/TabApp/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/liox/Desktop/TabApp/Classes/FirstViewController.m305847826#305847826#0(0"0(0#0#56"/Users/liox/Desktop/TabApp/Classes/FirstViewController.m8629777728#1787"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch -c /Users/liox/Desktop/TabApp/Classes/FirstViewController.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326024219.866118
+e326024219.951375
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m326024219#326024219#0(0"0(0#0#70"/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m8601465376#1941"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/FirstViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307960144.250395
+e307960144.327128
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o
+x/Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m307960144#307960144#0(0"0(0#0#60"/Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m8607741024#1831"    cd /Users/vincenzo/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/TabApp/Classes/FirstViewController.m -o /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/MKTouch.o /Users/liox/Desktop/TabApp/Classes/MKTouch.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305850743.647339
+e305850743.744253
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+x/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m305850743#305850743#0(0"0(0#0#54"/Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m8608427008#1783"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch -c /Users/liox/Desktop/TabApp/Classes/TabAppAppDelegate.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326024219.770964
+e326024219.888646
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m326024219#326024219#0(0"0(0#0#68"/Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m8606285568#1937"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/TabApp/Classes/TabAppAppDelegate.m -o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o /Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307960144.177739
+e307960144.299950
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o
+x/Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m307960144#307960144#0(0"0(0#0#58"/Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m8602017568#1827"    cd /Users/vincenzo/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/TabApp/Classes/TabAppAppDelegate.m -o /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabAppAppDelegate.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o /Users/liox/Desktop/TabApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305847826.050531
+e305847826.115120
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+x/Users/liox/Desktop/TabApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/liox/Desktop/TabApp/main.m305847826#305847826#0(0"0(0#0#33"/Users/liox/Desktop/TabApp/main.m8628709600#1749"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch -c /Users/liox/Desktop/TabApp/main.m -o /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326024219.769319
+e326024219.866020
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m326024219#326024219#0(0"0(0#0#47"/Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m8600546912#1903"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/TabApp/main.m -o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/TabApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307960144.176571
+e307960144.250291
+r1
+xCompileC
+xbuild/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/TabApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/vincenzo/Desktop/TabApp/main.m307960144#307960144#0(0"0(0#0#37"/Users/vincenzo/Desktop/TabApp/main.m8607034720#1793"    cd /Users/vincenzo/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch -c /Users/vincenzo/Desktop/TabApp/main.m -o /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/liox/Desktop/TabApp/Classes/MKTouch.xib
+r0
+
+CCompileXIB /Users/liox/Desktop/TabApp/FirstView.xib
+s305847824.543388
+e305847824.966087
+r1
+xCompileXIB
+x/Users/liox/Desktop/TabApp/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib305847824#305847824#0(0"0(0#0#40"/Users/liox/Desktop/TabApp/FirstView.xib8629037408#531"    cd /Users/liox/Desktop/TabApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/FirstView.nib /Users/liox/Desktop/TabApp/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/liox/Desktop/TabApp/MainWindow.xib
+s305849783.386071
+e305849783.789276
+r1
+xCompileXIB
+x/Users/liox/Desktop/TabApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305849783#305849783#0(0"0(0#0#41"/Users/liox/Desktop/TabApp/MainWindow.xib8629250688#533"    cd /Users/liox/Desktop/TabApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/MainWindow.nib /Users/liox/Desktop/TabApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/liox/Desktop/TabApp/SecondView.xib
+s305849648.848199
+e305849649.412203
+r1
+xCompileXIB
+x/Users/liox/Desktop/TabApp/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib305849648#305849649#0(0"0(0#0#41"/Users/liox/Desktop/TabApp/SecondView.xib8629583872#533"    cd /Users/liox/Desktop/TabApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/SecondView.nib /Users/liox/Desktop/TabApp/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/liox/Desktop/TabApp/TerzoView.xib
+s305851126.092915
+e305851126.890370
+r1
+xCompileXIB
+x/Users/liox/Desktop/TabApp/TerzoView.xib
+lSLF07#2@24"CompileXIB TerzoView.xib305851126#305851126#0(0"0(0#0#40"/Users/liox/Desktop/TabApp/TerzoView.xib8630561216#531"    cd /Users/liox/Desktop/TabApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TerzoView.nib /Users/liox/Desktop/TabApp/TerzoView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/FirstView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/SecondView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/TabApp/TerzoView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/TabApp/FirstView.xib
+s307960142.349961
+e307960142.905252
+r1
+xCompileXIB
+x/Users/vincenzo/Desktop/TabApp/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib307960142#307960142#0(0"0(0#0#44"/Users/vincenzo/Desktop/TabApp/FirstView.xib8604942944#543"    cd /Users/vincenzo/Desktop/TabApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/FirstView.nib /Users/vincenzo/Desktop/TabApp/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/vincenzo/Desktop/TabApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/TabApp/SecondView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/TabApp/TerzoView.xib
+r0
+
+CGenerateDSYMFile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+s305850743.791540
+e305850743.854975
+r1
+xGenerateDSYMFile
+x/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+x/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/TabApp.app.dSYM build/Debug-iphonesimulator/TabApp.app/TabApp305850743#305850743#0(0"0(0#0#72"/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp8629629984#344"    cd /Users/liox/Desktop/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp -o /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+s326024220.037025
+e326024220.073345
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/TabApp.app.dSYM build/Debug-iphonesimulator/TabApp.app/TabApp326024220#326024220#0(0"0(0#0#86"/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp8610509152#386"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp -o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+s307960144.351979
+e307960144.393595
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM
+x/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/TabApp.app.dSYM build/Debug-iphonesimulator/TabApp.app/TabApp307960144#307960144#0(0"0(0#0#76"/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp8599347648#356"    cd /Users/vincenzo/Desktop/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp -o /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app.dSYM0#
+
+CLd /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp normal i386
+s305850743.744355
+e305850743.791235
+r1
+xLd
+x/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+xnormal
+xi386
+lSLF07#2@77"Link /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp305850743#305850743#0(0"0(0#0#0"8630331648#835"    cd /Users/liox/Desktop/TabApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -filelist /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp0#
+
+CLd /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp normal i386
+s326024219.951470
+e326024220.036932
+r1
+xLd
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+xnormal
+xi386
+lSLF07#2@91"Link /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp326024219#326024220#0(0"0(0#0#0"8600592640#905"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp0#
+
+CLd /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp normal i386
+s307960144.327218
+e307960144.351877
+r1
+xLd
+x/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp
+xnormal
+xi386
+lSLF07#2@81"Link /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp307960144#307960144#0(0"0(0#0#0"8601144544#855"    cd /Users/vincenzo/Desktop/TabApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/Objects-normal/i386/TabApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/TabApp0#
+
+CProcessInfoPlistFile /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist TabApp-Info.plist
+s305847824.127701
+e305847824.131335
+r1
+xProcessInfoPlistFile
+x/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist
+xTabApp-Info.plist
+lSLF07#2@25"Process TabApp-Info.plist305847824#305847824#0(0"0(0#0#44"/Users/liox/Desktop/TabApp/TabApp-Info.plist8627257120#440"    cd /Users/liox/Desktop/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabApp-Info.plist -genpkginfo /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist TabApp-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app/Info.plist TabApp-Info.plist
+r0
+
+CProcessPCH /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch.gch TabApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305847824.966211
+e305847826.050173
+r1
+xProcessPCH
+x/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch.gch
+xTabApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabApp_Prefix.pch305847824#305847826#0(0"0(0#0#44"/Users/liox/Desktop/TabApp/TabApp_Prefix.pch8628372352#1654"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -c /Users/liox/Desktop/TabApp/TabApp_Prefix.pch -o /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-bptcowufhuxavnaxgnltctrzrljp/TabApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch.pth TabApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s305850243.678168
+e305850243.970988
+r1
+xProcessPCH
+x/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch.pth
+xTabApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile TabApp_Prefix.pch305850243#305850243#0(0"0(0#0#44"/Users/liox/Desktop/TabApp/TabApp_Prefix.pch8630350144#1645"    cd /Users/liox/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/liox/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -c /Users/liox/Desktop/TabApp/TabApp_Prefix.pch -o /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabApp_Prefix-cajojpjqwovdgeejtraxmqbiupqy/TabApp_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch.gch TabApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307960142.905368
+e307960144.176336
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch.gch
+xTabApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabApp_Prefix.pch307960142#307960144#0(0"0(0#0#48"/Users/vincenzo/Desktop/TabApp/TabApp_Prefix.pch8605226304#1694"    cd /Users/vincenzo/Desktop/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -c /Users/vincenzo/Desktop/TabApp/TabApp_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-ccdjwflpfpmdhsafzbifqwqmwhjl/TabApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch.gch TabApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326024218.778929
+e326024219.769216
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch.gch
+xTabApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TabApp_Prefix.pch326024218#326024219#0(0"0(0#0#58"/Users/vincenzo/Desktop/HD/iOSDev/TabApp/TabApp_Prefix.pch8616558944#1794"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/TabApp-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/TabApp.build/Debug-iphonesimulator/TabApp.build/DerivedSources -c /Users/vincenzo/Desktop/HD/iOSDev/TabApp/TabApp_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabApp_Prefix-eqjzymagalyzymatdnbhyfyorjug/TabApp_Prefix.pch.gch0#
+
+CTouch /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+s305851126.890976
+e305851126.893848
+r1
+xTouch
+x/Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+lSLF07#2@71"Touch /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app305851126#305851126#0(0"0(0#0#0"8629964384#253"    cd /Users/liox/Desktop/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/liox/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app0#
+
+CTouch /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app
+s326024220.073430
+e326024220.077824
+r1
+xTouch
+x/Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app
+lSLF07#2@85"Touch /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app326024220#326024220#0(0"0(0#0#0"8609901664#281"    cd /Users/vincenzo/Desktop/HD/iOSDev/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/HD/iOSDev/TabApp/build/Debug-iphonesimulator/TabApp.app0#
+
+CTouch /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+s307960144.393701
+e307960144.396464
+r1
+xTouch
+x/Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app
+lSLF07#2@75"Touch /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app307960144#307960144#0(0"0(0#0#0"8607518944#261"    cd /Users/vincenzo/Desktop/TabApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/TabApp/build/Debug-iphonesimulator/TabApp.app0#
+

@@ -1,0 +1,51 @@
+TPersistence
+v7
+r1
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/MainWindow.xib
+c0000000049F34ADE0000000000002441
+t1240681182
+s9281
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/PersistenceViewController.xib
+c0000000049F34ADE00000000000043CF
+t1240681182
+s17359
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app/Contents/Info.plist
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app/Contents/Resources/PersistenceViewController.nib
+t2
+s0
+
+NPersistence-Info.plist
+c0000000049F34ADE000000000000038D
+t1240681182
+s909
+
+CCompileXIB "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/PersistenceViewController.xib"
+r0
+
+CProcessInfoPlistFile "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app/Contents/Info.plist" Persistence-Info.plist
+r0
+
+CTouch "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug/Persistence.app"
+r0
+

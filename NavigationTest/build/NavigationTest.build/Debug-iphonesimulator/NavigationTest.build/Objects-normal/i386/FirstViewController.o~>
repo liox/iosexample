@@ -1,0 +1,2 @@
+In file included from /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m:3:
+/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h:18: warning: type of accessor does not match the type of property 'nextButton'

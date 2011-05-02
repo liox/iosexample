@@ -1,0 +1,2 @@
+/Users/vincenzo/Desktop/pubbliskins/Classes/pubbliAppDelegate.m:150: warning: property 'navController' requires method '-navController' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/vincenzo/Desktop/pubbliskins/Classes/pubbliAppDelegate.m:150: warning: property 'navController' requires the method 'setNavController:' to be defined - use @synthesize, @dynamic or provide a method implementation

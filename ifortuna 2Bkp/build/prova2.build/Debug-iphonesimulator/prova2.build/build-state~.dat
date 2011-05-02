@@ -1,0 +1,256 @@
+Tprova2
+v7
+r0
+t306019468.333233
+cCheck dependencies
+cProcessInfoPlistFile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/Info.plist prova2-Info.plist
+cCompileXIB /Users/liox/Desktop/prova2/MainWindow.xib
+cCompileXIB /Users/liox/Desktop/prova2/prova2ViewController.xib
+cProcessPCH /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch.gch prova2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/main.o /Users/liox/Desktop/prova2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2AppDelegate.o /Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2ViewController.o /Users/liox/Desktop/prova2/Classes/prova2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2 normal i386
+cGenerateDSYMFile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app.dSYM /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2
+cTouch /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C862C2C0000000000000132
+t1283861548
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/liox/Desktop/prova2/Classes/prova2AppDelegate.h
+c000000004C8D3E1600000000000001D6
+t1284324886
+s470
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m
+c000000004C8D3E160000000000000A83
+t1284324886
+s2691
+i"prova2AppDelegate.h"
+i"prova2ViewController.h"
+
+N/Users/liox/Desktop/prova2/Classes/prova2ViewController.h
+c000000004C8D423C00000000000001A9
+t1284325948
+s425
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/prova2/Classes/prova2ViewController.m
+c000000004C8D450900000000000007E6
+t1284326665
+s2022
+i"prova2ViewController.h"
+
+N/Users/liox/Desktop/prova2/MainWindow.xib
+c000000004C8D3E160000000000004E1D
+t1284324886
+s19997
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app
+t1284326668
+s238
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app.dSYM
+t1284326668
+s102
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/Info.plist
+t1284326666
+s587
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/MainWindow.nib
+t1284326666
+s1121
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/PkgInfo
+t1284326666
+s8
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2
+t1284326668
+s17972
+
+N/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2ViewController.nib
+t1284326666
+s2338
+
+N/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/main.o
+t1284326668
+s6280
+
+N/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2.LinkFileList
+c000000004C8D450A0000000000000161
+t1284326666
+s353
+
+N/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2AppDelegate.o
+t1284326668
+s47720
+
+N/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2ViewController.o
+t1284326668
+s39044
+
+N/Users/liox/Desktop/prova2/main.m
+c000000004C8D3E160000000000000165
+t1284324886
+s357
+i<UIKit/UIKit.h>
+
+N/Users/liox/Desktop/prova2/prova2ViewController.xib
+c000000004C8D42FE000000000000609D
+t1284326142
+s24733
+
+N/Users/liox/Desktop/prova2/prova2_Prefix.pch
+c000000004C8D3E1600000000000000B5
+t1284324886
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch.gch
+t1284326667
+s15232016
+
+Nprova2-Info.plist
+c000000004C8D3E16000000000000038D
+t1284324886
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306019466#306019466#0(0"0(0#1#0"8613253760#0"0#
+
+CCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/main.o /Users/liox/Desktop/prova2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306019468.100146
+e306019468.163083
+r1
+xCompileC
+xbuild/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/main.o
+x/Users/liox/Desktop/prova2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/liox/Desktop/prova2/main.m306019468#306019468#0(0"0(0#0#33"/Users/liox/Desktop/prova2/main.m8610364448#1749"    cd /Users/liox/Desktop/prova2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-generated-files.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-own-target-headers.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-all-target-headers.hmap -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-project-headers.hmap -F/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -I/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources/i386 -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch -c /Users/liox/Desktop/prova2/main.m -o /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/main.o0#
+
+CCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2AppDelegate.o /Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306019468.101990
+e306019468.191102
+r1
+xCompileC
+xbuild/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2AppDelegate.o
+x/Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m306019468#306019468#0(0"0(0#0#54"/Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m8614730208#1783"    cd /Users/liox/Desktop/prova2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-generated-files.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-own-target-headers.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-all-target-headers.hmap -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-project-headers.hmap -F/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -I/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources/i386 -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch -c /Users/liox/Desktop/prova2/Classes/prova2AppDelegate.m -o /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2AppDelegate.o0#
+
+CCompileC build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2ViewController.o /Users/liox/Desktop/prova2/Classes/prova2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306019468.163196
+e306019468.263875
+r1
+xCompileC
+xbuild/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2ViewController.o
+x/Users/liox/Desktop/prova2/Classes/prova2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/liox/Desktop/prova2/Classes/prova2ViewController.m306019468#306019468#0(0"0(0#0#57"/Users/liox/Desktop/prova2/Classes/prova2ViewController.m8613299328#1789"    cd /Users/liox/Desktop/prova2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-generated-files.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-own-target-headers.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-all-target-headers.hmap -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-project-headers.hmap -F/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -I/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources/i386 -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources -include /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch -c /Users/liox/Desktop/prova2/Classes/prova2ViewController.m -o /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2ViewController.o0#
+
+CCompileXIB /Users/liox/Desktop/prova2/MainWindow.xib
+s306019466.249384
+e306019466.667971
+r1
+xCompileXIB
+x/Users/liox/Desktop/prova2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306019466#306019466#0(0"0(0#0#41"/Users/liox/Desktop/prova2/MainWindow.xib8610134752#533"    cd /Users/liox/Desktop/prova2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/MainWindow.nib /Users/liox/Desktop/prova2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/liox/Desktop/prova2/prova2ViewController.xib
+s306019466.250356
+e306019466.780482
+r1
+xCompileXIB
+x/Users/liox/Desktop/prova2/prova2ViewController.xib
+lSLF07#2@35"CompileXIB prova2ViewController.xib306019466#306019466#0(0"0(0#0#51"/Users/liox/Desktop/prova2/prova2ViewController.xib8608941920#553"    cd /Users/liox/Desktop/prova2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2ViewController.nib /Users/liox/Desktop/prova2/prova2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app.dSYM /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2
+s306019468.310446
+e306019468.330444
+r1
+xGenerateDSYMFile
+x/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app.dSYM
+x/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/prova2.app.dSYM build/Debug-iphonesimulator/prova2.app/prova2306019468#306019468#0(0"0(0#0#72"/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova28614263968#344"    cd /Users/liox/Desktop/prova2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2 -o /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app.dSYM0#
+
+CLd /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2 normal i386
+s306019468.264115
+e306019468.310295
+r1
+xLd
+x/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2
+xnormal
+xi386
+lSLF07#2@77"Link /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova2306019468#306019468#0(0"0(0#0#0"8614565568#835"    cd /Users/liox/Desktop/prova2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -F/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -filelist /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/Objects-normal/i386/prova2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/prova20#
+
+CProcessInfoPlistFile /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/Info.plist prova2-Info.plist
+s306019466.243863
+e306019466.249264
+r1
+xProcessInfoPlistFile
+x/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/Info.plist
+xprova2-Info.plist
+lSLF07#2@25"Process prova2-Info.plist306019466#306019466#0(0"0(0#0#44"/Users/liox/Desktop/prova2/prova2-Info.plist8610427680#440"    cd /Users/liox/Desktop/prova2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility prova2-Info.plist -genpkginfo /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app/Info.plist0#
+
+CProcessPCH /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch.gch prova2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306019466.780602
+e306019468.099631
+r1
+xProcessPCH
+x/var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch.gch
+xprova2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile prova2_Prefix.pch306019466#306019468#0(0"0(0#0#44"/Users/liox/Desktop/prova2/prova2_Prefix.pch8613718016#1654"    cd /Users/liox/Desktop/prova2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-generated-files.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-own-target-headers.hmap -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-all-target-headers.hmap -iquote /Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/prova2-project-headers.hmap -F/Users/liox/Desktop/prova2/build/Debug-iphonesimulator -I/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/include -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources/i386 -I/Users/liox/Desktop/prova2/build/prova2.build/Debug-iphonesimulator/prova2.build/DerivedSources -c /Users/liox/Desktop/prova2/prova2_Prefix.pch -o /var/folders/T+/T+RI6T1cFOq0F1Xmu9UGuk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/prova2_Prefix-bxmodcnptzxcfnefjtuylaswbdjd/prova2_Prefix.pch.gch0#
+
+CTouch /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app
+s306019468.330527
+e306019468.333199
+r1
+xTouch
+x/Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app
+lSLF07#2@71"Touch /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app306019468#306019468#0(0"0(0#0#0"8614049216#253"    cd /Users/liox/Desktop/prova2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/liox/Desktop/prova2/build/Debug-iphonesimulator/prova2.app0#
+

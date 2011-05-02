@@ -1,0 +1,1148 @@
+TWebWork
+v7
+r0
+t326026557.587279
+cCheck dependencies
+cProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist WebWork-Info.plist
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/MainWindow.xib
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWorkViewController.xib
+cCpResource build/Debug-iphonesimulator/WebWork.app/blue_get.png blue_get.png
+cCpResource build/Debug-iphonesimulator/WebWork.app/green_get.png green_get.png
+cCpResource build/Debug-iphonesimulator/WebWork.app/image.png image.png
+cCpResource build/Debug-iphonesimulator/WebWork.app/lavender_get.png lavender_get.png
+cCpResource build/Debug-iphonesimulator/WebWork.app/text.png text.png
+cProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork normal i386
+cGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+cTouch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004BB7891300000000000000EE
+t1270319379
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004BB7891A00000000000000EE
+t1270319386
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004CA6F0FF0000000000000132
+t1286009087
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.h
+c000000004BECEB1A0000000000000179
+t1273817882
+s377
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m
+c000000004BECEB1A0000000000000204
+t1273817882
+s516
+i"WebWorkAppDelegate.h"
+i"WebWorkViewController.h"
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.h
+c000000004BECEAFC00000000000003D4
+t1273817852
+s980
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m
+c000000004B11831800000000000023A0
+t1259438872
+s9120
+i"WebWorkViewController.h"
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib
+c000000004B118318000000000000244E
+t1259438872
+s9294
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib
+c000000004B1183180000000000009771
+t1259438872
+s38769
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch
+c000000004B11831800000000000000B7
+t1259438872
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png
+c000000004B1183180000000000000BAF
+t1259438872
+s2991
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app
+t1274449694
+s408
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+t1274449694
+s102
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
+t1274449693
+s593
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib
+t1274449693
+s1479
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo
+t1274449693
+s8
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+t1274449694
+s31240
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib
+t1274449693
+s6035
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/blue_get.png
+t1273831779
+s2991
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/green_get.png
+t1273831779
+s2871
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/image.png
+t1273831779
+s4602
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/lavender_get.png
+t1273831779
+s3027
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/text.png
+t1273831779
+s3962
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList
+c000000004BED21630000000000000256
+t1273831779
+s598
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+t1274449694
+s40464
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+t1274449694
+s59000
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+t1274449694
+s6084
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png
+c000000004B1183180000000000000B37
+t1259438872
+s2871
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png
+c000000004B11831800000000000011FA
+t1259438872
+s4602
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png
+c000000004B1183180000000000000BD3
+t1259438872
+s3027
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m
+c000000004B118318000000000000015D
+t1259438872
+s349
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png
+c000000004B1183180000000000000F7A
+t1259438872
+s3962
+
+N/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.h
+c000000004BECEB1A0000000000000179
+t1273817882
+s377
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m
+c000000004BECEB1A0000000000000204
+t1273817882
+s516
+i"WebWorkAppDelegate.h"
+i"WebWorkViewController.h"
+
+N/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.h
+c000000004BECEAFC00000000000003D4
+t1273817852
+s980
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m
+c000000004B11831800000000000023A0
+t1259438872
+s9120
+i"WebWorkViewController.h"
+
+N/Users/pmarturano/Public/Day3/10 WebWork/MainWindow.xib
+c000000004B118318000000000000244E
+t1259438872
+s9294
+
+N/Users/pmarturano/Public/Day3/10 WebWork/WebWorkViewController.xib
+c000000004B1183180000000000009771
+t1259438872
+s38769
+
+N/Users/pmarturano/Public/Day3/10 WebWork/WebWork_Prefix.pch
+c000000004B11831800000000000000B7
+t1259438872
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Public/Day3/10 WebWork/blue_get.png
+c000000004B1183180000000000000BAF
+t1259438872
+s2991
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app
+t1276777750
+s408
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+t1276777750
+s102
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
+t1274449693
+s593
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib
+t1274449693
+s1479
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo
+t1274449693
+s8
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+t1276777750
+s30852
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib
+t1274449693
+s6035
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/blue_get.png
+t1273831779
+s2991
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/green_get.png
+t1273831779
+s2871
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/image.png
+t1273831779
+s4602
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/lavender_get.png
+t1273831779
+s3027
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/text.png
+t1273831779
+s3962
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList
+c000000004C1A15150000000000000193
+t1276777749
+s403
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+t1276777750
+s40364
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+t1276777750
+s58904
+
+N/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+t1276777750
+s5964
+
+N/Users/pmarturano/Public/Day3/10 WebWork/green_get.png
+c000000004B1183180000000000000B37
+t1259438872
+s2871
+
+N/Users/pmarturano/Public/Day3/10 WebWork/image.png
+c000000004B11831800000000000011FA
+t1259438872
+s4602
+
+N/Users/pmarturano/Public/Day3/10 WebWork/lavender_get.png
+c000000004B1183180000000000000BD3
+t1259438872
+s3027
+
+N/Users/pmarturano/Public/Day3/10 WebWork/main.m
+c000000004B118318000000000000015D
+t1259438872
+s349
+i<UIKit/UIKit.h>
+
+N/Users/pmarturano/Public/Day3/10 WebWork/text.png
+c000000004B1183180000000000000F7A
+t1259438872
+s3962
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.h
+c000000004BECEB1A0000000000000179
+t1273817882
+s377
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m
+c000000004BECEB1A0000000000000204
+t1273817882
+s516
+i"WebWorkAppDelegate.h"
+i"WebWorkViewController.h"
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.h
+c000000004CAA569F00000000000003EE
+t1286231711
+s1006
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m
+c000000004B11831800000000000023A0
+t1259438872
+s9120
+i"WebWorkViewController.h"
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/MainWindow.xib
+c000000004B118318000000000000244E
+t1259438872
+s9294
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/WebWorkViewController.xib
+c000000004B1183180000000000009771
+t1259438872
+s38769
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/WebWork_Prefix.pch
+c000000004B11831800000000000000B7
+t1259438872
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/blue_get.png
+c000000004B1183180000000000000BAF
+t1259438872
+s2991
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+t1286231715
+s408
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+t1286231715
+s102
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
+t1274449692
+s593
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib
+t1274449692
+s1479
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo
+t1274449692
+s8
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+t1286231715
+s28260
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib
+t1274449692
+s6035
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/blue_get.png
+t1273831778
+s2991
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/green_get.png
+t1273831778
+s2871
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/image.png
+t1273831778
+s4602
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/lavender_get.png
+t1273831778
+s3027
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/text.png
+t1273831778
+s3962
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList
+c000000004CAA558500000000000001A8
+t1286231429
+s424
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+t1286231715
+s47780
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+t1286231715
+s69172
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+t1286231430
+s6320
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/green_get.png
+c000000004B1183180000000000000B37
+t1259438872
+s2871
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/image.png
+c000000004B11831800000000000011FA
+t1259438872
+s4602
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/lavender_get.png
+c000000004B1183180000000000000BD3
+t1259438872
+s3027
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m
+c000000004B118318000000000000015D
+t1259438872
+s349
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/text.png
+c000000004B1183180000000000000F7A
+t1259438872
+s3962
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.h
+c000000004BECEB1A0000000000000179
+t1273817882
+s377
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m
+c000000004BECEB1A0000000000000204
+t1273817882
+s516
+i"WebWorkAppDelegate.h"
+i"WebWorkViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.h
+c000000004DBE8DB80000000000000433
+t1304333752
+s1075
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m
+c000000004B11831800000000000023A0
+t1259438872
+s9120
+i"WebWorkViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/MainWindow.xib
+c000000004B118318000000000000244E
+t1259438872
+s9294
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWorkViewController.xib
+c000000004B1183180000000000009771
+t1259438872
+s38769
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWork_Prefix.pch
+c000000004B11831800000000000000B7
+t1259438872
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/blue_get.png
+c000000004B1183180000000000000BAF
+t1259438872
+s2991
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+t1304333757
+s408
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+t1304333757
+s102
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
+t1274449692
+s593
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib
+t1274449692
+s1479
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo
+t1274449692
+s8
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+t1304333757
+s28412
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib
+t1274449692
+s6035
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/blue_get.png
+t1273831778
+s2991
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/green_get.png
+t1273831778
+s2871
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/image.png
+t1273831778
+s4602
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/lavender_get.png
+t1273831778
+s3027
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/text.png
+t1273831778
+s3962
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList
+c000000004D14915A00000000000001F3
+t1293193562
+s499
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+t1304333757
+s47828
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+t1304333757
+s69292
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+t1293193563
+s6372
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/green_get.png
+c000000004B1183180000000000000B37
+t1259438872
+s2871
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/image.png
+c000000004B11831800000000000011FA
+t1259438872
+s4602
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/lavender_get.png
+c000000004B1183180000000000000BD3
+t1259438872
+s3027
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m
+c000000004B118318000000000000015D
+t1259438872
+s349
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/text.png
+c000000004B1183180000000000000F7A
+t1259438872
+s3962
+
+N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch.gch
+t1276777749
+s13026768
+
+N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch
+t1273831780
+s13026768
+
+N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch.gch
+t1274449694
+s13026768
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch.gch
+t1286231430
+s15232016
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch.gch
+t1293193563
+s15232016
+
+NWebWork-Info.plist
+c000000004B118318000000000000038D
+t1259438872
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326026556#326026556#0(0"0(0#1#0"8600559936#0"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296142494.450964
+e296142494.554202
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m296142494#296142494#0(0"0(0#0#134"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m4300911832#2654"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o "/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298470550.075504
+e298470550.147201
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+x/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m298470550#298470550#0(0"0(0#0#69"/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m4300911832#1955"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch -c "/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkAppDelegate.m" -o "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307924515.431938
+e307924515.621644
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m307924515#307924515#0(0"0(0#0#76"/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m8610770528#2036"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m -o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326026556.202341
+e326026557.110444
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m326026556#326026557#0(0"0(0#0#101"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m8605991840#2311"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkAppDelegate.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296142494.549968
+e296142494.663198
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@145"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m296142494#296142494#0(0"0(0#0#137"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m4300911832#2660"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o "/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298470550.120929
+e298470550.246028
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+x/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m298470550#298470550#0(0"0(0#0#72"/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m4300911832#1961"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch -c "/Users/pmarturano/Public/Day3/10 WebWork/Classes/WebWorkViewController.m" -o "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307924515.432882
+e307924515.613909
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m307924515#307924515#0(0"0(0#0#79"/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m8610531232#2042"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m -o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326026556.205157
+e326026557.143684
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m326026556#326026557#0(0"0(0#0#104"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m8605516064#2317"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/Classes/WebWorkViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s296142494.449719
+e296142494.549622
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m296142494#296142494#0(0"0(0#0#112"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m4300911832#2618"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o "/Users/pmarturano/Public/Day3/10 WebWork/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s298470550.074361
+e298470550.120821
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+x/Users/pmarturano/Public/Day3/10 WebWork/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/pmarturano/Public/Day3/10 WebWork/main.m298470550#298470550#0(0"0(0#0#47"/Users/pmarturano/Public/Day3/10 WebWork/main.m4300911832#1919"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch -c "/Users/pmarturano/Public/Day3/10 WebWork/main.m" -o "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307924230.521850
+e307924230.578272
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m307924230#307924230#0(0"0(0#0#54"/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m8595589344#2000"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/main.m -o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o0#
+
+CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314886363.279708
+e314886363.411239
+r1
+xCompileC
+xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m314886363#314886363#0(0"0(0#0#79"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m8611446176#2275"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/main.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib"
+s296142493.079344
+e296142493.421906
+r1
+xCompileXIB
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296142493#296142493#0(0"0(0#0#120"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib4300911832#689"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib"0#
+
+CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib"
+s296142493.080013
+e296142493.736077
+r1
+xCompileXIB
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib
+lSLF07#2@36"CompileXIB WebWorkViewController.xib296142493#296142493#0(0"0(0#0#131"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib4300911832#711"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib"0#
+
+CCompileXIB "/Users/pmarturano/Public/Day3/10 WebWork/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/pmarturano/Public/Day3/10 WebWork/WebWorkViewController.xib"
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/WebWorkViewController.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWorkViewController.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/WebWork.app/blue_get.png blue_get.png
+s295524579.343881
+e295524579.438422
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebWork.app/blue_get.png
+xblue_get.png
+lSLF07#2@17"Copy blue_get.png295524579#295524579#0(0"0(0#0#118"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png4300911832#663"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CCpResource build/Debug-iphonesimulator/WebWork.app/green_get.png green_get.png
+s295524579.344516
+e295524579.437523
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebWork.app/green_get.png
+xgreen_get.png
+lSLF07#2@18"Copy green_get.png295524579#295524579#0(0"0(0#0#119"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png4300911832#664"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CCpResource build/Debug-iphonesimulator/WebWork.app/image.png image.png
+s295524579.345030
+e295524579.441881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebWork.app/image.png
+ximage.png
+lSLF07#2@14"Copy image.png295524579#295524579#0(0"0(0#0#115"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png4300911832#660"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CCpResource build/Debug-iphonesimulator/WebWork.app/lavender_get.png lavender_get.png
+s295524579.345523
+e295524579.442009
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebWork.app/lavender_get.png
+xlavender_get.png
+lSLF07#2@21"Copy lavender_get.png295524579#295524579#0(0"0(0#0#122"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png4300911832#667"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CCpResource build/Debug-iphonesimulator/WebWork.app/text.png text.png
+s295524579.346007
+e295524579.441108
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebWork.app/text.png
+xtext.png
+lSLF07#2@13"Copy text.png295524579#295524579#0(0"0(0#0#114"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png4300911832#659"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"
+s296142494.683925
+e296142494.700232
+r1
+xGenerateDSYMFile
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/WebWork.app.dSYM build/Debug-iphonesimulator/WebWork.app/WebWork296142494#296142494#0(0"0(0#0#153"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork4300911832#590"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM" "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"
+s298470550.505134
+e298470550.527206
+r1
+xGenerateDSYMFile
+x/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+x/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/WebWork.app.dSYM build/Debug-iphonesimulator/WebWork.app/WebWork298470550#298470550#0(0"0(0#0#88"/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork4300911832#407"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/usr/bin/dsymutil "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" -o "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM"0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+s307924515.645296
+e307924515.661668
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/WebWork.app.dSYM build/Debug-iphonesimulator/WebWork.app/WebWork307924515#307924515#0(0"0(0#0#95"/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork8612224800#410"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork -o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+s326026557.341491
+e326026557.584293
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/WebWork.app.dSYM build/Debug-iphonesimulator/WebWork.app/WebWork326026557#326026557#0(0"0(0#0#120"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork8598685216#485"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM0#
+
+CLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" normal i386
+s296142494.663371
+e296142494.683817
+r1
+xLd
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+xnormal
+xi386
+lSLF07#2@158"Link /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork296142494#296142494#0(0"0(0#0#0"4300911832#1209"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"0#
+
+CLd "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" normal i386
+s298470550.246117
+e298470550.505041
+r1
+xLd
+x/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+xnormal
+xi386
+lSLF07#2@93"Link /Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork298470550#298470550#0(0"0(0#0#0"4300911832#900"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" "-F/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"0#
+
+CLd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork normal i386
+s307924515.621740
+e307924515.645191
+r1
+xLd
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+xnormal
+xi386
+lSLF07#2@100"Link /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork307924515#307924515#0(0"0(0#0#0"8592898336#945"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork0#
+
+CLd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork normal i386
+s326026557.143775
+e326026557.341390
+r1
+xLd
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
+xnormal
+xi386
+lSLF07#2@125"Link /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork326026557#326026557#0(0"0(0#0#0"8608785600#1070"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork0#
+
+CProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist" WebWork-Info.plist
+s296142493.075616
+e296142493.079274
+r1
+xProcessInfoPlistFile
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
+xWebWork-Info.plist
+lSLF07#2@26"Process WebWork-Info.plist296142493#296142493#0(0"0(0#0#124"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork-Info.plist4300911832#686"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebWork-Info.plist -genpkginfo "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist" WebWork-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist WebWork-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist WebWork-Info.plist
+r0
+
+CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298470549.137092
+e298470550.074245
+r1
+xProcessPCH
+x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch.gch
+xWebWork_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile WebWork_Prefix.pch298470549#298470550#0(0"0(0#0#59"/Users/pmarturano/Public/Day3/10 WebWork/WebWork_Prefix.pch4300911832#1807"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Old_Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Public/Day3/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -c "/Users/pmarturano/Public/Day3/10 WebWork/WebWork_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-atobwebbulnsiaafuqltyyyvhaqg/WebWork_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295524579.519198
+e295524580.300244
+r1
+xProcessPCH
+x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch
+xWebWork_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile WebWork_Prefix.pch295524579#295524580#0(0"0(0#0#124"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch4300911832#2441"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296142493.736211
+e296142494.449599
+r1
+xProcessPCH
+x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch.gch
+xWebWork_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile WebWork_Prefix.pch296142493#296142494#0(0"0(0#0#124"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch4300911832#2441"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-danqbzftvmnjpndqnbmubxiybgdd/WebWork_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307924229.752434
+e307924230.521749
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch.gch
+xWebWork_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile WebWork_Prefix.pch307924229#307924230#0(0"0(0#0#66"/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/WebWork_Prefix.pch8596171264#1883"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -c /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/WebWork_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-bgastadvwxeforfuwqjikouprwvt/WebWork_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314886362.450796
+e314886363.279607
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch.gch
+xWebWork_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile WebWork_Prefix.pch314886362#314886363#0(0"0(0#0#91"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWork_Prefix.pch8632141152#2133"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/WebWork_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-ctpcrmqqntaodugltktmqjdoghtb/WebWork_Prefix.pch.gch0#
+
+CTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"
+s296142494.700327
+e296142494.708043
+r1
+xTouch
+x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app
+lSLF07#2@151"Touch /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app296142494#296142494#0(0"0(0#0#0"4300911832#416"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CTouch "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app"
+s298470550.527299
+e298470550.542536
+r1
+xTouch
+x/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app
+lSLF07#2@86"Touch /Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app298470550#298470550#0(0"0(0#0#0"4300911832#294"    cd "/Users/pmarturano/Public/Day3/10 WebWork"    setenv PATH "/Old_Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Old_Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Public/Day3/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
+
+CTouch /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+s307924515.661752
+e307924515.664191
+r1
+xTouch
+x/Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+lSLF07#2@93"Touch /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app307924515#307924515#0(0"0(0#0#0"8611897856#296"    cd /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app0#
+
+CTouch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+s326026557.584386
+e326026557.587239
+r1
+xTouch
+x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app
+lSLF07#2@118"Touch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app326026557#326026557#0(0"0(0#0#0"8600397184#346"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/WebWork/build/Debug-iphonesimulator/WebWork.app0#
+

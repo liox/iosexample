@@ -1,0 +1,937 @@
+TPageControl
+v7
+r0
+t326023646.977676
+cCheck dependencies
+cProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MyView.xib
+cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png images/Icon-Small-50.png
+cProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+cGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+cTouch /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004CA6F0FF0000000000000132
+t1286009087
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.h
+c000000004C227A140000000000000C56
+t1277327892
+s3158
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m
+c000000004CB1FF090000000000001BB3
+t1286733577
+s7091
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.h
+c000000004C227A140000000000000B16
+t1277327892
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m
+c000000004CB202620000000000000FB8
+t1286734434
+s4024
+i"MyViewController.h"
+
+N/Users/vincenzo/Desktop/FlipView/Prefix.pch
+c000000004C227A140000000000000A2B
+t1277327892
+s2603
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app
+t1286734435
+s442
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1286734435
+s102
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Default.png
+t1286318448
+s4585
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-72.png
+t1286318448
+s1063
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png
+t1286318448
+s992
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small.png
+t1286318448
+s918
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png
+t1286318448
+s1010
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon.png
+t1286318448
+s1007
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon@2x.png
+t1286318448
+s1252
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1286318447
+s735
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1286734435
+s22900
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1286318447
+s8
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib
+t1286318448
+s1356
+
+N/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib
+t1286318447
+s1230
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+t1286733581
+s56848
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+t1286734435
+s40024
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004CB1F8430000000000000187
+t1286731843
+s391
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1286731844
+s6292
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/AppDelegate.plist
+t1286733679
+s276
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/MyViewController.plist
+t1286734435
+s5588
+
+N/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/main.plist
+t1286733679
+s276
+
+N/Users/vincenzo/Desktop/FlipView/en.lproj/MainWindow.xib
+c000000004B58DE2A0000000000004E96
+t1264115242
+s20118
+
+N/Users/vincenzo/Desktop/FlipView/en.lproj/MyView.xib
+c000000004B58DE2A0000000000004450
+t1264115242
+s17488
+
+N/Users/vincenzo/Desktop/FlipView/images/Default.png
+c000000004C1FC74D00000000000011E9
+t1277151053
+s4585
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon-72.png
+c000000004C1FC74D0000000000000427
+t1277151053
+s1063
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon-Small-50.png
+c000000004C1FC74D00000000000003E0
+t1277151053
+s992
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon-Small.png
+c000000004C1BF62A0000000000000396
+t1276900906
+s918
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon-Small@2x.png
+c000000004C1BF62A00000000000003F2
+t1276900906
+s1010
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon.png
+c000000004C1BF62A00000000000003EF
+t1276900906
+s1007
+
+N/Users/vincenzo/Desktop/FlipView/images/Icon@2x.png
+c000000004C1BF62A00000000000004E4
+t1276900906
+s1252
+
+N/Users/vincenzo/Desktop/FlipView/main.m
+c000000004C227A140000000000000ADF
+t1277327892
+s2783
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.h
+c000000004C227A140000000000000C56
+t1277327892
+s3158
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m
+c000000004CB1FF090000000000001BB3
+t1286733577
+s7091
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.h
+c000000004C227A140000000000000B16
+t1277327892
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m
+c000000004CB202620000000000000FB8
+t1286734434
+s4024
+i"MyViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Prefix.pch
+c000000004C227A140000000000000A2B
+t1277327892
+s2603
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app
+t1293193137
+s442
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1293193137
+s102
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Default.png
+t1286318448
+s4585
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-72.png
+t1286318448
+s1063
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png
+t1286318448
+s992
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small.png
+t1286318448
+s918
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png
+t1286318448
+s1010
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon.png
+t1286318448
+s1007
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Icon@2x.png
+t1286318448
+s1252
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1286318447
+s735
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1293193137
+s22960
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1286318447
+s8
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib
+t1286318448
+s1356
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib
+t1286318447
+s1230
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+t1293193137
+s56864
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+t1293193137
+s40044
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004D148FB000000000000001A5
+t1293193136
+s421
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1293193137
+s6312
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MainWindow.xib
+c000000004B58DE2A0000000000004E96
+t1264115242
+s20118
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MyView.xib
+c000000004B58DE2A0000000000004450
+t1264115242
+s17488
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Default.png
+c000000004C1FC74D00000000000011E9
+t1277151053
+s4585
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon-72.png
+c000000004C1FC74D0000000000000427
+t1277151053
+s1063
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon-Small-50.png
+c000000004C1FC74D00000000000003E0
+t1277151053
+s992
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon-Small.png
+c000000004C1BF62A0000000000000396
+t1276900906
+s918
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon-Small@2x.png
+c000000004C1BF62A00000000000003F2
+t1276900906
+s1010
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon.png
+c000000004C1BF62A00000000000003EF
+t1276900906
+s1007
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/images/Icon@2x.png
+c000000004C1BF62A00000000000004E4
+t1276900906
+s1252
+
+N/Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m
+c000000004C227A140000000000000ADF
+t1277327892
+s2783
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.h
+c000000004C227A140000000000000C56
+t1277327892
+s3158
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m
+c000000004C227A140000000000001BB3
+t1277327892
+s7091
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/vincenzo/Downloads/PageControl/Classes/MyViewController.h
+c000000004C227A140000000000000B16
+t1277327892
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m
+c000000004C227A140000000000000F67
+t1277327892
+s3943
+i"MyViewController.h"
+
+N/Users/vincenzo/Downloads/PageControl/Prefix.pch
+c000000004C227A140000000000000A2B
+t1277327892
+s2603
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app
+t1286318449
+s442
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1286318449
+s102
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Default.png
+t1286318448
+s4585
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon-72.png
+t1286318448
+s1063
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png
+t1286318448
+s992
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon-Small.png
+t1286318448
+s918
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png
+t1286318448
+s1010
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon.png
+t1286318448
+s1007
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Icon@2x.png
+t1286318448
+s1252
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1286318447
+s735
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1286318449
+s22932
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1286318447
+s8
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib
+t1286318448
+s1356
+
+N/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib
+t1286318447
+s1230
+
+N/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+t1286318449
+s56856
+
+N/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+t1286318449
+s39640
+
+N/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004CABA96F0000000000000196
+t1286318447
+s406
+
+N/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1286318449
+s6300
+
+N/Users/vincenzo/Downloads/PageControl/en.lproj/MainWindow.xib
+c000000004B58DE2A0000000000004E96
+t1264115242
+s20118
+
+N/Users/vincenzo/Downloads/PageControl/en.lproj/MyView.xib
+c000000004B58DE2A0000000000004450
+t1264115242
+s17488
+
+N/Users/vincenzo/Downloads/PageControl/images/Default.png
+c000000004C1FC74D00000000000011E9
+t1277151053
+s4585
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon-72.png
+c000000004C1FC74D0000000000000427
+t1277151053
+s1063
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon-Small-50.png
+c000000004C1FC74D00000000000003E0
+t1277151053
+s992
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon-Small.png
+c000000004C1BF62A0000000000000396
+t1276900906
+s918
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon-Small@2x.png
+c000000004C1BF62A00000000000003F2
+t1276900906
+s1010
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon.png
+c000000004C1BF62A00000000000003EF
+t1276900906
+s1007
+
+N/Users/vincenzo/Downloads/PageControl/images/Icon@2x.png
+c000000004C1BF62A00000000000004E4
+t1276900906
+s1252
+
+N/Users/vincenzo/Downloads/PageControl/main.m
+c000000004C227A140000000000000ADF
+t1277327892
+s2783
+i<UIKit/UIKit.h>
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch.gch
+t1286731844
+s15232016
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch.pth
+t1286733679
+s2690544
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch.gch
+t1293193137
+s15232016
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch.gch
+t1286318448
+s15232016
+
+NInfo.plist
+c000000004C223C59000000000000045E
+t1277312089
+s1118
+
+CAnalyze /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m
+s308426479.584150
+e308426479.664877
+r1
+xAnalyze
+x/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m
+lSLF07#2@62"Analyze /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m308426479#308426479#0(0"0(0#0#54"/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m8625078592#1922"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch --analyze /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/AppDelegate.plist0#
+
+CAnalyze /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m
+s308427235.430108
+e308427235.498105
+r1
+xAnalyze
+x/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m
+o/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m:59:17: warning: Potential leak of an object allocated on line 59
+o                 NSString *app=[[NSString alloc] initWithFormat:@"Perfetto è tutto OK."];
+o                               ^
+o1 warning generated.
+lSLF07#2@67"Analyze /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427235#308427235#0(271"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m:59:17: warning: Potential leak of an object allocated on line 59                 NSString *app=[[NSString alloc] initWithFormat:@"Perfetto è tutto OK."];                               ^1 warning generated.1(0@48"Potential leak of an object allocated on line 59308427235#18446744073709551615#0#5(17@0"308427235#18446744073709551615#0#0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#0"0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#1(3@6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#58#5#58#5#6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#3#59#3#17@0"308427235#18446744073709551615#0#0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#0"0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#1(3@6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#3#59#3#6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#17#59#74#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)308427235#18446744073709551615#0#0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#17#0#0#0"1(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#17#59#74#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"308427235#18446744073709551615#0#0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#0"0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#0#0#0#0#1(3@6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#59#17#59#74#6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#65#5#65#10#21@113"Object allocated on line 59 is no longer referenced after this point and has a retain count of +1 (object leaked)308427235#18446744073709551615#0#0(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#65#5#0#0#0"1(6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#65#5#65#10#113"Object allocated on line 59 is no longer referenced after this point and has a retain count of +1 (object leaked)6@59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427234#65#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m8638779232#1932"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch --analyze /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/MyViewController.plist0#
+
+CAnalyze /Users/vincenzo/Desktop/FlipView/main.m
+s308426479.482984
+e308426479.534524
+r1
+xAnalyze
+x/Users/vincenzo/Desktop/FlipView/main.m
+lSLF07#2@47"Analyze /Users/vincenzo/Desktop/FlipView/main.m308426479#308426479#0(0"0(0#0#39"/Users/vincenzo/Desktop/FlipView/main.m8631988416#1900"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch --analyze /Users/vincenzo/Desktop/FlipView/main.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326023646#326023646#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308426381.079979
+e308426381.372274
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+x/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m308426381#308426381#0(0"0(0#0#54"/Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m8604951424#1913"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch -c /Users/vincenzo/Desktop/FlipView/Classes/AppDelegate.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314885937.605986
+e314885937.757276
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m314885937#314885937#0(0"0(0#0#64"/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m8609039904#2023"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/AppDelegate.m -o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308011249.108146
+e308011249.211828
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+x/Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m308011249#308011249#0(0"0(0#0#59"/Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m8626528352#1968"    cd /Users/vincenzo/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -I/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/include -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch -c /Users/vincenzo/Downloads/PageControl/Classes/AppDelegate.m -o /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308427235.358997
+e308427235.534103
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+x/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m308427235#308427235#0(0"0(0#0#59"/Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m8639327904#1923"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch -c /Users/vincenzo/Desktop/FlipView/Classes/MyViewController.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314885937.503559
+e314885937.605890
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m314885937#314885937#0(0"0(0#0#69"/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m8608981632#2033"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Classes/MyViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308011249.048152
+e308011249.138944
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+x/Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m308011249#308011249#0(0"0(0#0#64"/Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m8622811904#1978"    cd /Users/vincenzo/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -I/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/include -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch -c /Users/vincenzo/Downloads/PageControl/Classes/MyViewController.m -o /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/FlipView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308424644.274169
+e308424644.336713
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/FlipView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/vincenzo/Desktop/FlipView/main.m308424644#308424644#0(0"0(0#0#39"/Users/vincenzo/Desktop/FlipView/main.m8605645664#1891"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch -c /Users/vincenzo/Desktop/FlipView/main.m -o /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314885937.502004
+e314885937.681312
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m314885937#314885937#0(0"0(0#0#49"/Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m5057391083870441472#2001"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/FlipView/main.m -o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/vincenzo/Downloads/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308011249.046980
+e308011249.108041
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+x/Users/vincenzo/Downloads/PageControl/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/vincenzo/Downloads/PageControl/main.m308011249#308011249#0(0"0(0#0#44"/Users/vincenzo/Downloads/PageControl/main.m8598977120#1946"    cd /Users/vincenzo/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -I/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/include -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch -c /Users/vincenzo/Downloads/PageControl/main.m -o /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/vincenzo/Desktop/FlipView/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/FlipView/en.lproj/MyView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/FlipView/en.lproj/MyView.xib
+r0
+
+CCompileXIB /Users/vincenzo/Downloads/PageControl/en.lproj/MainWindow.xib
+s308011247.415401
+e308011248.077424
+r1
+xCompileXIB
+x/Users/vincenzo/Downloads/PageControl/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib308011247#308011248#0(0"0(0#0#61"/Users/vincenzo/Downloads/PageControl/en.lproj/MainWindow.xib8626179840#589"    cd /Users/vincenzo/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib /Users/vincenzo/Downloads/PageControl/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/vincenzo/Downloads/PageControl/en.lproj/MyView.xib
+s308011247.413381
+e308011248.016510
+r1
+xCompileXIB
+x/Users/vincenzo/Downloads/PageControl/en.lproj/MyView.xib
+lSLF07#2@30"CompileXIB en.lproj/MyView.xib308011247#308011248#0(0"0(0#0#57"/Users/vincenzo/Downloads/PageControl/en.lproj/MyView.xib8626413952#581"    cd /Users/vincenzo/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib /Users/vincenzo/Downloads/PageControl/en.lproj/MyView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Default.png images/Default.png
+s308011248.019600
+e308011248.036799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png308011248#308011248#0(0"0(0#0#56"/Users/vincenzo/Downloads/PageControl/images/Default.png8621628864#463"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Default.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon-72.png images/Icon-72.png
+s308011248.020161
+e308011248.036184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png308011248#308011248#0(0"0(0#0#56"/Users/vincenzo/Downloads/PageControl/images/Icon-72.png8615240704#463"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon-72.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png images/Icon-Small-50.png
+s308011248.022250
+e308011248.038917
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png308011248#308011248#0(0"0(0#0#62"/Users/vincenzo/Downloads/PageControl/images/Icon-Small-50.png8613902848#469"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon-Small-50.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small.png images/Icon-Small.png
+s308011248.016598
+e308011248.035494
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png308011248#308011248#0(0"0(0#0#59"/Users/vincenzo/Downloads/PageControl/images/Icon-Small.png8623475968#466"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon-Small.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s308011248.017716
+e308011248.035614
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png308011248#308011248#0(0"0(0#0#62"/Users/vincenzo/Downloads/PageControl/images/Icon-Small@2x.png8622938368#469"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon-Small@2x.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon.png images/Icon.png
+s308011248.018410
+e308011248.035972
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png308011248#308011248#0(0"0(0#0#53"/Users/vincenzo/Downloads/PageControl/images/Icon.png8622705056#460"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Icon@2x.png images/Icon@2x.png
+s308011248.019018
+e308011248.036081
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png308011248#308011248#0(0"0(0#0#56"/Users/vincenzo/Downloads/PageControl/images/Icon@2x.png8622515744#463"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/vincenzo/Downloads/PageControl/images/Icon@2x.png /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+s308427235.653461
+e308427235.684954
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM
+x/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PageControl.app.dSYM build/Debug-iphonesimulator/PageControl.app/PageControl308427235#308427235#0(0"0(0#0#88"/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl8638701472#377"    cd /Users/vincenzo/Desktop/FlipView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl -o /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM0#
+
+CGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+s314885937.780843
+e314885937.830834
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PageControl.app.dSYM build/Debug-iphonesimulator/PageControl.app/PageControl314885937#314885937#0(0"0(0#0#98"/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl8605784832#407"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl -o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app.dSYM0#
+
+CGenerateDSYMFile /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+s308011249.235509
+e308011249.254352
+r1
+xGenerateDSYMFile
+x/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+x/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PageControl.app.dSYM build/Debug-iphonesimulator/PageControl.app/PageControl308011249#308011249#0(0"0(0#0#93"/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl8621045312#392"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl -o /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM0#
+
+CLd /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+s308427235.534206
+e308427235.653361
+r1
+xLd
+x/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+xnormal
+xi386
+lSLF07#2@93"Link /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl308427235#308427235#0(0"0(0#0#0"8621377280#866"    cd /Users/vincenzo/Desktop/FlipView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -o /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl0#
+
+CLd /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+s314885937.757361
+e314885937.780735
+r1
+xLd
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl
+xnormal
+xi386
+lSLF07#2@103"Link /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl314885937#314885937#0(0"0(0#0#0"8606476416#916"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -o /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/PageControl0#
+
+CLd /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+s308011249.211919
+e308011249.235407
+r1
+xLd
+x/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+xnormal
+xi386
+lSLF07#2@98"Link /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl308011249#308011249#0(0"0(0#0#0"8622594304#891"    cd /Users/vincenzo/Downloads/PageControl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -F/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -filelist /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -o /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl0#
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+s308011247.390501
+e308011247.413289
+r1
+xProcessInfoPlistFile
+x/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist308011247#308011247#0(0"0(0#0#48"/Users/vincenzo/Downloads/PageControl/Info.plist8623746144#476"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308424643.516289
+e308424644.273890
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch308424643#308424644#0(0"0(0#0#43"/Users/vincenzo/Desktop/FlipView/Prefix.pch8607911392#1773"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/vincenzo/Desktop/FlipView/Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cdnfqpwfiyqzwlbephvvakkmmlmw/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s308426478.875857
+e308426479.413731
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch.pth
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@21"Precompile Prefix.pch308426478#308426479#0(0"0(0#0#43"/Users/vincenzo/Desktop/FlipView/Prefix.pch8607524256#1764"    cd /Users/vincenzo/Desktop/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/vincenzo/Desktop/FlipView/Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gegqrutemjzilhdrrjuqalbfqxyu/Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314885936.671194
+e314885937.501735
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch314885936#314885937#0(0"0(0#0#53"/Users/vincenzo/Desktop/HD/iOSDev/FlipView/Prefix.pch8460969769936971776#1873"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/vincenzo/Desktop/HD/iOSDev/FlipView/Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gkuygnuhpgknbdgyrqohjqvansei/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308011248.077553
+e308011249.046775
+r1
+xProcessPCH
+x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch308011248#308011249#0(0"0(0#0#48"/Users/vincenzo/Downloads/PageControl/Prefix.pch8601414144#1823"    cd /Users/vincenzo/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator -I/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/include -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/vincenzo/Downloads/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/vincenzo/Downloads/PageControl/Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-heauwclsqovjeafwfvxorxkpynob/Prefix.pch.gch0#
+
+CTouch /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app
+s308427235.685040
+e308427235.691974
+r1
+xTouch
+x/Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app
+lSLF07#2@82"Touch /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app308427235#308427235#0(0"0(0#0#0"8627260128#270"    cd /Users/vincenzo/Desktop/FlipView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/FlipView/build/Debug-iphonesimulator/PageControl.app0#
+
+CTouch /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app
+s314885937.830934
+e314885937.834091
+r1
+xTouch
+x/Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app
+lSLF07#2@92"Touch /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app314885937#314885937#0(0"0(0#0#0"8603848096#290"    cd /Users/vincenzo/Desktop/HD/iOSDev/FlipView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/HD/iOSDev/FlipView/build/Debug-iphonesimulator/PageControl.app0#
+
+CTouch /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app
+s308011249.254439
+e308011249.257721
+r1
+xTouch
+x/Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app
+lSLF07#2@87"Touch /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app308011249#308011249#0(0"0(0#0#0"8614399296#280"    cd /Users/vincenzo/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Downloads/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+

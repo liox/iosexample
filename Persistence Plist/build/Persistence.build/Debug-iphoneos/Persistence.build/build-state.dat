@@ -1,0 +1,178 @@
+TPersistence
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004CA6F0E00000000000000110
+t1286009056
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceAppDelegate.h
+c000000004BEA396E0000000000000191
+t1273641326
+s401
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceAppDelegate.m
+c000000004BEA396E0000000000000218
+t1273641326
+s536
+i"PersistenceAppDelegate.h"
+i"PersistenceViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceViewController.h
+c000000004BEA3966000000000000026F
+t1273641318
+s623
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceViewController.m
+c000000004BEA396E0000000000000839
+t1273641326
+s2105
+i"PersistenceViewController.h"
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/MainWindow.xib
+c0000000049F34ADE0000000000002441
+t1240681182
+s9281
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/PersistenceViewController.xib
+c0000000049F34ADE00000000000043CF
+t1240681182
+s17359
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Persistence_Prefix.pch
+c0000000049F34ADE00000000000000BF
+t1240681182
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app.dSYM
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/Info.plist
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/MainWindow.nib
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/Persistence
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/PersistenceViewController.nib
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/PkgInfo
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/ResourceRules.plist
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/Persistence.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/PersistenceAppDelegate.o
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/PersistenceViewController.o
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/main.m
+c0000000049F34ADE0000000000000161
+t1240681182
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-feqwcabedtbledcjiknsmsetdwhl/Persistence_Prefix.pch.gch
+t2
+s0
+
+NPersistence-Info.plist
+c0000000049F34ADE000000000000038D
+t1240681182
+s909
+
+CCompileC build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/PersistenceAppDelegate.o "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/PersistenceViewController.o "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/Classes/PersistenceViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Persistence.build/Debug-iphoneos/Persistence.build/Objects-normal/armv6/main.o "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/PersistenceViewController.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Persistence.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app.dSYM" "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/Persistence"
+r0
+
+CLd "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/Persistence" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app/Info.plist" Persistence-Info.plist
+r0
+
+CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-feqwcabedtbledcjiknsmsetdwhl/Persistence_Prefix.pch.gch Persistence_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day3_Code/Persistence Plist/build/Debug-iphoneos/Persistence.app"
+r0
+
