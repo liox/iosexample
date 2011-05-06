@@ -1,295 +1,0 @@
-TUntitled
-v7
-r0
-t314886146.356790
-cCheck dependencies
-cProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib
-cProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled normal i386
-cGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled
-cTouch /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
-c000000004CA6F0F00000000000000110
-t1286009072
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BD1CD90000000000026F020
-t1272040848
-s2551840
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BD1FFC200000000002A96A0
-t1272053698
-s2791072
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BD1FF9E0000000000001355
-t1272053662
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004BD20412000000000000098F
-t1272054802
-s2447
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004BD20471000000000222E640
-t1272054897
-s35841600
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
-c000000004BD1CFC10000000000001A1A
-t1272041409
-s6682
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.h
-c000000004CB203990000000000000264
-t1286734745
-s612
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m
-c000000004CB203990000000000000DC5
-t1286734745
-s3525
-i"DetailViewController.h"
-i"RootViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.h
-c000000004CB203990000000000000192
-t1286734745
-s402
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m
-c000000004CB2039900000000000010C8
-t1286734745
-s4296
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.h
-c000000004CB203990000000000000318
-t1286734745
-s792
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m
-c000000004CB2039900000000000007C9
-t1286734745
-s1993
-i"UntitledAppDelegate.h"
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib
-c000000004CB203990000000000005003
-t1286734745
-s20483
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib
-c000000004CB2039900000000000069CC
-t1286734745
-s27084
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Untitled_Prefix.pch
-c000000004CB203990000000000000142
-t1286734745
-s322
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app
-t1293193346
-s238
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app.dSYM
-t1293193346
-s102
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/DetailView.nib
-t1293193345
-s1421
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Info.plist
-t1293193344
-s802
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/MainWindow.nib
-t1293193345
-s1935
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/PkgInfo
-t1293193344
-s8
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled
-t1293193346
-s27108
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o
-t1293193346
-s45628
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
-t1293193346
-s41908
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
-c000000004D1490800000000000000235
-t1293193344
-s565
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
-t1293193346
-s48672
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
-t1293193346
-s6296
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m
-c000000004CB20399000000000000016E
-t1286734745
-s366
-i<UIKit/UIKit.h>
-
-N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch.gch
-t1293193345
-s13526928
-
-NUntitled-Info.plist
-c000000004CB2039900000000000004D6
-t1286734745
-s1238
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies314886144#314886144#0(0"0(0#1#0"8609381376#0"0#
-
-CCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314886146.187344
-e314886146.307039
-r1
-xCompileC
-xbuild/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m314886146#314886146#0(0"0(0#0#73"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m8607512768#2064"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/DetailViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o0#
-
-CCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314886146.113808
-e314886146.230520
-r1
-xCompileC
-xbuild/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m314886146#314886146#0(0"0(0#0#71"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m8614298912#2060"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/RootViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314886146.053526
-e314886146.187188
-r1
-xCompileC
-xbuild/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m314886146#314886146#0(0"0(0#0#72"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m8607645664#2062"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Classes/UntitledAppDelegate.m -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o0#
-
-CCompileC build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314886146.052028
-e314886146.113708
-r1
-xCompileC
-xbuild/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m314886146#314886146#0(0"0(0#0#49"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m8602991264#2024"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/main.m -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib
-s314886144.696840
-e314886145.365125
-r1
-xCompileXIB
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib
-lSLF07#2@25"CompileXIB DetailView.xib314886144#314886145#0(0"0(0#0#57"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib8611408160#585"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/DetailView.nib /Users/vincenzo/Desktop/HD/iOSDev/Untitled/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib
-s314886144.695518
-e314886145.358041
-r1
-xCompileXIB
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib314886144#314886145#0(0"0(0#0#57"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib8611915552#585"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/MainWindow.nib /Users/vincenzo/Desktop/HD/iOSDev/Untitled/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled
-s314886146.335978
-e314886146.353926
-r1
-xGenerateDSYMFile
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app.dSYM
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled
-lSLF07#2@116"GenerateDSYMFile build/Release-iphonesimulator/Untitled.app.dSYM build/Release-iphonesimulator/Untitled.app/Untitled314886146#314886146#0(0"0(0#0#94"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled8611763744#402"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app.dSYM0#
-
-CLd /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled normal i386
-s314886146.307123
-e314886146.335876
-r1
-xLd
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled
-xnormal
-xi386
-lSLF07#2@99"Link /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled314886146#314886146#0(0"0(0#0#0"8605775328#933"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -filelist /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Untitled0#
-
-CProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
-s314886144.678624
-e314886144.695432
-r1
-xProcessInfoPlistFile
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Info.plist
-xUntitled-Info.plist
-lSLF07#2@27"Process Untitled-Info.plist314886144#314886144#0(0"0(0#0#62"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Untitled-Info.plist8609778272#498"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Untitled-Info.plist -genpkginfo /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app/Info.plist0#
-
-CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s314886145.365247
-e314886146.051772
-r1
-xProcessPCH
-x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch.gch
-xUntitled_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile Untitled_Prefix.pch314886145#314886146#0(0"0(0#0#62"/Users/vincenzo/Desktop/HD/iOSDev/Untitled/Untitled_Prefix.pch8615169856#1909"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Untitled.build/Release-iphonesimulator/Untitled.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/Untitled_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-eboxakrklxxnyyepwfpqxnejhzhq/Untitled_Prefix.pch.gch0#
-
-CTouch /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app
-s314886146.354016
-e314886146.356755
-r1
-xTouch
-x/Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app
-lSLF07#2@91"Touch /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app314886146#314886146#0(0"0(0#0#0"8609350976#289"    cd /Users/vincenzo/Desktop/HD/iOSDev/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/HD/iOSDev/Untitled/build/Release-iphonesimulator/Untitled.app0#
-

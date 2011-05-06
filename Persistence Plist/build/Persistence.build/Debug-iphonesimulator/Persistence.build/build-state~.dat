@@ -1,240 +1,0 @@
-TPersistence
-v7
-r0
-t295334128.319831
-cCheck dependencies
-cProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Info.plist" Persistence-Info.plist
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/MainWindow.xib"
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/PersistenceViewController.xib"
-cProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch.gch Persistence_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence" normal i386
-cGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence"
-cTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
-c000000004BB7890B00000000000000EE
-t1270319371
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004A0BAA26000000000026EE80
-t1242278438
-s2551424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A0BAB370000000000261F90
-t1242278711
-s2498448
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A0BAB250000000000001355
-t1242278693
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004A0CBEBB000000000000075E
-t1242349243
-s1886
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004A0CBF5F0000000001434100
-t1242349407
-s21184768
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.h
-c000000004BEA396F0000000000000191
-t1273641327
-s401
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m
-c000000004BEA396F0000000000000218
-t1273641327
-s536
-i"PersistenceAppDelegate.h"
-i"PersistenceViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.h
-c000000004BEA3967000000000000026F
-t1273641319
-s623
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m
-c000000004BEA396F0000000000000839
-t1273641327
-s2105
-i"PersistenceViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/MainWindow.xib
-c0000000049F34ADF0000000000002441
-t1240681183
-s9281
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/PersistenceViewController.xib
-c0000000049F34ADF00000000000043CF
-t1240681183
-s17359
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Persistence_Prefix.pch
-c0000000049F34ADF00000000000000BF
-t1240681183
-s191
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app
-t1273641328
-s238
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app.dSYM
-t1273641328
-s102
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Info.plist
-t1260578365
-s550
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/MainWindow.nib
-t1260578366
-s1503
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence
-t1273641328
-s21852
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/PersistenceViewController.nib
-t1260578366
-s3396
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/PkgInfo
-t1260578365
-s8
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/Persistence.LinkFileList
-c000000004BEA396F000000000000028B
-t1273641327
-s651
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o
-t1273641327
-s38068
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o
-t1273641327
-s41004
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o
-t1273641327
-s6092
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m
-c0000000049F34ADF0000000000000161
-t1240681183
-s353
-i<UIKit/UIKit.h>
-
-N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch.gch
-t1273641327
-s12952976
-
-NPersistence-Info.plist
-c0000000049F34ADF000000000000038D
-t1240681183
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies295334127#295334127#0(0"0(0#1#0"31244212048494624#0"0#
-
-CCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295334127.829793
-e295334127.901070
-r1
-xCompileC
-xbuild/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@153"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m295334127#295334127#0(0"0(0#0#145"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m4300911832#2817"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceAppDelegate.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o"0#
-
-CCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295334127.879542
-e295334127.941139
-r1
-xCompileC
-xbuild/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@156"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m295334127#295334127#0(0"0(0#0#148"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m4300911832#2823"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Classes/PersistenceViewController.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o"0#
-
-CCompileC build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295334127.828371
-e295334127.879438
-r1
-xCompileC
-xbuild/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@127"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m295334127#295334127#0(0"0(0#0#119"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m4300911832#2773"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/main.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/MainWindow.xib"
-r0
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/PersistenceViewController.xib"
-r0
-
-CGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence"
-s295334128.303096
-e295334128.317550
-r1
-xGenerateDSYMFile
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app.dSYM
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Persistence.app.dSYM build/Debug-iphonesimulator/Persistence.app/Persistence295334128#295334128#0(0"0(0#0#168"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence4300911832#623"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app.dSYM"0#
-
-CLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence" normal i386
-s295334127.941233
-e295334128.302981
-r1
-xLd
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence
-xnormal
-xi386
-lSLF07#2@173"Link /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence295334127#295334128#0(0"0(0#0#0"4300911832#1262"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/Persistence.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Persistence"0#
-
-CProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app/Info.plist" Persistence-Info.plist
-r0
-
-CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch.gch Persistence_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s295334127.133482
-e295334127.828220
-r1
-xProcessPCH
-x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch.gch
-xPersistence_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile Persistence_Prefix.pch295334127#295334127#0(0"0(0#0#135"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Persistence_Prefix.pch4300911832#2585"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/Persistence_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Persistence_Prefix-butkcyfxxuubpbgaktbkvlkvcupl/Persistence_Prefix.pch.gch0#
-
-CTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app"
-s295334128.317633
-e295334128.319801
-r1
-xTouch
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app
-lSLF07#2@162"Touch /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app295334128#295334128#0(0"0(0#0#0"4300911832#434"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/12_05_2010/Persistence Plist/build/Debug-iphonesimulator/Persistence.app"0#
-

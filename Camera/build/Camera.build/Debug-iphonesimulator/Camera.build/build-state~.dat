@@ -1,256 +1,0 @@
-TCamera
-v7
-r0
-t294653792.398970
-cCheck dependencies
-cProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Info.plist" Camera-Info.plist
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib"
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib"
-cProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch.gch Camera_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera" normal i386
-cGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera"
-cTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
-c000000004BB7890B00000000000000EE
-t1270319371
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004A0BAA26000000000026EE80
-t1242278438
-s2551424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A0BAB370000000000261F90
-t1242278711
-s2498448
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A0BAB250000000000001355
-t1242278693
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004A0CBEBB000000000000075E
-t1242349243
-s1886
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004A0CBF5F0000000001434100
-t1242349407
-s21184768
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib
-c0000000049F8D67B00000000000038CC
-t1241044603
-s14540
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Camera_Prefix.pch
-c0000000049F8D67B00000000000000B5
-t1241044603
-s181
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.h
-c0000000049F8D67B00000000000001CD
-t1241044603
-s461
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m
-c0000000049F8D67B0000000000000259
-t1241044603
-s601
-i"CameraAppDelegate.h"
-i"CameraViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.h
-c0000000049F8D67B00000000000002A3
-t1241044603
-s675
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m
-c0000000049F8D67B0000000000000A86
-t1241044603
-s2694
-i"CameraViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib
-c0000000049F8D67B000000000000240A
-t1241044603
-s9226
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/Camera.LinkFileList
-c000000004BDFD7DE0000000000000299
-t1272960990
-s665
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o
-t1272960991
-s37996
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o
-t1272960991
-s44840
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o
-t1272960991
-s6128
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app
-t1272960992
-s238
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app.dSYM
-t1272960992
-s102
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera
-t1272960992
-s21676
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/CameraViewController.nib
-t1272960990
-s3396
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Info.plist
-t1272960990
-s587
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/MainWindow.nib
-t1272960990
-s1477
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/PkgInfo
-t1272960990
-s8
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m
-c0000000049F8D67B000000000000015C
-t1241044603
-s348
-i<UIKit/UIKit.h>
-
-N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch.gch
-t1272960991
-s12952976
-
-NCamera-Info.plist
-c0000000049F8D67B000000000000038D
-t1241044603
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies294653790#294653790#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s294653791.220071
-e294653791.367433
-r1
-xCompileC
-xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@166"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m294653791#294653791#0(0"0(0#0#158"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m4300911832#2905"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraAppDelegate.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o"0#
-
-CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s294653791.294151
-e294653791.388166
-r1
-xCompileC
-xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@169"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m294653791#294653791#0(0"0(0#0#161"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m4300911832#2911"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Classes/CameraViewController.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o"0#
-
-CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s294653791.218760
-e294653791.294047
-r1
-xCompileC
-xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@145"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m294653791#294653791#0(0"0(0#0#137"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m4300911832#2871"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/main.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib"
-s294653790.074224
-e294653790.535661
-r1
-xCompileXIB
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib
-lSLF07#2@35"CompileXIB CameraViewController.xib294653790#294653790#0(0"0(0#0#155"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib4300911832#781"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/CameraViewController.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/CameraViewController.xib"0#
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib"
-s294653790.069593
-e294653790.454759
-r1
-xCompileXIB
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib294653790#294653790#0(0"0(0#0#145"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib4300911832#761"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/MainWindow.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/MainWindow.xib"0#
-
-CGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera"
-s294653792.378027
-e294653792.395531
-r1
-xGenerateDSYMFile
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app.dSYM
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera
-lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Camera.app.dSYM build/Debug-iphonesimulator/Camera.app/Camera294653792#294653792#0(0"0(0#0#176"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera4300911832#662"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app.dSYM"0#
-
-CLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera" normal i386
-s294653791.388264
-e294653792.377864
-r1
-xLd
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera
-xnormal
-xi386
-lSLF07#2@181"Link /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera294653791#294653792#0(0"0(0#0#0"4300911832#1327"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/Camera.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Camera"0#
-
-CProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Info.plist" Camera-Info.plist
-s294653790.053947
-e294653790.069494
-r1
-xProcessInfoPlistFile
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Info.plist
-xCamera-Info.plist
-lSLF07#2@25"Process Camera-Info.plist294653790#294653790#0(0"0(0#0#148"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Camera-Info.plist4300911832#758"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Camera-Info.plist -genpkginfo "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app/Info.plist"0#
-
-CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch.gch Camera_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s294653790.535773
-e294653791.218657
-r1
-xProcessPCH
-x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch.gch
-xCamera_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Camera_Prefix.pch294653790#294653791#0(0"0(0#0#148"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Camera_Prefix.pch4300911832#2670"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/Camera_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-cgvyivlvajapqpbalfcjyveckitc/Camera_Prefix.pch.gch0#
-
-CTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app"
-s294653792.395624
-e294653792.398929
-r1
-xTouch
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app
-lSLF07#2@175"Touch /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app294653792#294653792#0(0"0(0#0#0"4300911832#465"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/BASE/Extras/Beginning iPhone 3 Development July 17 2009/16 Camera/build/Debug-iphonesimulator/Camera.app"0#
-

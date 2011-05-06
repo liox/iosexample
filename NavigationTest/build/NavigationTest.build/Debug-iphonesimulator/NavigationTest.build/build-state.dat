@@ -1,895 +1,0 @@
-TNavigationTest
-v7
-r0
-t326025814.080173
-cCheck dependencies
-cProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist NavigationTest-Info.plist
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/MainWindow.xib
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/FirstView.xib
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/RedView.xib
-cCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/BlueView.xib
-cProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch.gch NavigationTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest normal i386
-cGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-cTouch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004CA6F0FF0000000000000132
-t1286009087
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/BlueView.xib
-c000000004C345E750000000000003ADB
-t1278500469
-s15067
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.h
-c000000004C345E4E00000000000000FE
-t1278500430
-s254
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m
-c000000004C345E86000000000000062C
-t1278500486
-s1580
-i"BlueViewController.h"
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h
-c000000004C345DDB0000000000000178
-t1278500315
-s376
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m
-c000000004C345E0500000000000007B4
-t1278500357
-s1972
-i"FirstViewController.h"
-i"RedViewController.h"
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.h
-c000000004C89B3DD00000000000001F0
-t1284092893
-s496
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-c000000004C89B3CD00000000000002AF
-t1284092877
-s687
-i"NavigationTestAppDelegate.h"
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.h
-c000000004C345F2E0000000000000110
-t1278500654
-s272
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m
-c000000004C345F8F0000000000000851
-t1278500751
-s2129
-i"RedViewController.h"
-i"BlueViewController.h"
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/FirstView.xib
-c000000004C345E1A000000000000439B
-t1278500378
-s17307
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/MainWindow.xib
-c000000004C89B442000000000000390D
-t1284092994
-s14605
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/NavigationTest_Prefix.pch
-c000000004C89B40400000000000000C9
-t1284092932
-s201
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/RedView.xib
-c000000004C345BE70000000000003AD7
-t1278499815
-s15063
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-t1284093027
-s306
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-t1284093027
-s102
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/BlueView.nib
-t1284093025
-s764
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/FirstView.nib
-t1284093024
-s941
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist
-t1284093024
-s619
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/MainWindow.nib
-t1284093024
-s1543
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-t1284093027
-s19184
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/PkgInfo
-t1284093024
-s8
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/RedView.nib
-t1284093025
-s764
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-t1284093027
-s35096
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-t1284093026
-s38356
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList
-c000000004C89B4600000000000000323
-t1284093024
-s803
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-t1284093026
-s47300
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-t1284093026
-s37720
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-t1284093026
-s6328
-
-N/Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m
-c000000004C89B45D000000000000017B
-t1284093021
-s379
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/BlueView.xib
-c000000004C345E740000000000003ADB
-t1278500468
-s15067
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.h
-c000000004C345E4E00000000000000FE
-t1278500430
-s254
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m
-c000000004C345E86000000000000062C
-t1278500486
-s1580
-i"BlueViewController.h"
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h
-c000000004C345DDA0000000000000178
-t1278500314
-s376
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m
-c000000004C345E0400000000000007B4
-t1278500356
-s1972
-i"FirstViewController.h"
-i"RedViewController.h"
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.h
-c000000004C89B3DC00000000000001F0
-t1284092892
-s496
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-c000000004C89B3CC00000000000002AF
-t1284092876
-s687
-i"NavigationTestAppDelegate.h"
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.h
-c000000004C345F2E0000000000000110
-t1278500654
-s272
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m
-c000000004C345F8E0000000000000851
-t1278500750
-s2129
-i"RedViewController.h"
-i"BlueViewController.h"
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/FirstView.xib
-c000000004C345E1A000000000000439B
-t1278500378
-s17307
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/MainWindow.xib
-c000000004C89B442000000000000390D
-t1284092994
-s14605
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch
-c000000004C89B40400000000000000C9
-t1284092932
-s201
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/RedView.xib
-c000000004C345BE60000000000003AD7
-t1278499814
-s15063
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-t1286280448
-s306
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-t1286280448
-s102
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/BlueView.nib
-t1284093024
-s764
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/FirstView.nib
-t1284093024
-s941
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist
-t1284093024
-s619
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/MainWindow.nib
-t1284093024
-s1543
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-t1286280448
-s19224
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/PkgInfo
-t1284093024
-s8
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/RedView.nib
-t1284093024
-s764
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-t1286280448
-s35104
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-t1286280448
-s38364
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList
-c000000004CAB14FF0000000000000337
-t1286280447
-s823
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-t1286280448
-s47308
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-t1286280448
-s37728
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-t1286280448
-s6336
-
-N/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m
-c000000004C89B45C000000000000017B
-t1284093020
-s379
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/BlueView.xib
-c000000004C345E740000000000003ADB
-t1278500468
-s15067
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.h
-c000000004DBE8AC00000000000000057
-t1304332992
-s87
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m
-c000000004DBE8AC00000000000000581
-t1304332992
-s1409
-i"BlueViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h
-c000000004DBE8AC000000000000000CF
-t1304332992
-s207
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m
-c000000004DBE8AC00000000000000709
-t1304332992
-s1801
-i"FirstViewController.h"
-i"RedViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.h
-c000000004DBE8AC00000000000000145
-t1304332992
-s325
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-c000000004DBE8AC00000000000000204
-t1304332992
-s516
-i"NavigationTestAppDelegate.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.h
-c000000004DBE8AC0000000000000006A
-t1304332992
-s106
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m
-c000000004DBE8AC000000000000007A8
-t1304332992
-s1960
-i"RedViewController.h"
-i"BlueViewController.h"
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/FirstView.xib
-c000000004C345E1A000000000000439B
-t1278500378
-s17307
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/MainWindow.xib
-c000000004C89B442000000000000390D
-t1284092994
-s14605
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch
-c000000004C89B40400000000000000C9
-t1284092932
-s201
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/RedView.xib
-c000000004C345BE60000000000003AD7
-t1278499814
-s15063
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-t1304333014
-s306
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-t1304333014
-s102
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/BlueView.nib
-t1284093024
-s764
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/FirstView.nib
-t1284093024
-s941
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist
-t1284093024
-s619
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/MainWindow.nib
-t1284093024
-s1543
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-t1304333014
-s19472
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/PkgInfo
-t1284093024
-s8
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/RedView.nib
-t1284093024
-s764
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-t1304333014
-s35156
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-t1304333013
-s38412
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList
-c000000004DBE8A6300000000000003B4
-t1304332899
-s948
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-t1304333013
-s47356
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-t1304333013
-s37776
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-t1304332900
-s6384
-
-N/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m
-c000000004C89B45C000000000000017B
-t1284093020
-s379
-i<UIKit/UIKit.h>
-
-N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch.gch
-t1284093026
-s15232016
-
-N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch.gch
-t1304332900
-s15232016
-
-N/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch.gch
-t1286280448
-s15232016
-
-NNavigationTest-Info.plist
-c000000004C345990000000000000038D
-t1278499216
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies326025813#326025813#0(0"0(0#1#0"8603461088#0"0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785826.964375
-e305785827.020701
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m305785826#305785827#0(0"0(0#0#79"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m8625660736#2209"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/BlueViewController.m -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973248.497108
-e307973248.584130
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m307973248#307973248#0(0"0(0#0#83"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m8598305952#2253"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025813.910564
-e326025814.018360
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@116"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m326025813#326025814#0(0"0(0#0#108"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m8593553920#2528"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/BlueViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/BlueViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785826.896651
-e305785826.964267
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m:9:
-o/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h:18: warning: type of accessor does not match the type of property 'nextButton'
-lSLF07#2@88"Compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m305785826#305785826#0(266"In file included from /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m:9:/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h:18: warning: type of accessor does not match the type of property 'nextButton'1(22@65"Type of accessor does not match the type of property 'nextButton'305785826#106#160#2(7@102"In file included from /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m305785826#18446744073709551615#0#0(6@80"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m300193157#9#0#9#0#0"0(13@149"Type of accessor does not match the type of property 'nextButton' in /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h305785826#18446744073709551615#0#0(6@80"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h300193115#18#0#18#0#0"0(6@80"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.h300193115#18#0#18#0#0"0(0#0#80"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m8626936640#2211"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/FirstViewController.m -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973248.396397
-e307973248.497003
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m:9:
-o/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h:18: warning: type of accessor does not match the type of property 'nextButton'
-lSLF07#2@92"Compile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m307973248#307973248#0(274"In file included from /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m:9:/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h:18: warning: type of accessor does not match the type of property 'nextButton'1(22@65"Type of accessor does not match the type of property 'nextButton'307973248#110#164#2(7@106"In file included from /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m307973248#18446744073709551615#0#0(6@84"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m300193156#9#0#9#0#0"0(13@153"Type of accessor does not match the type of property 'nextButton' in /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h307973248#18446744073709551615#0#0(6@84"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h300193114#18#0#18#0#0"0(6@84"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h300193114#18#0#18#0#0"0(0#0#84"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m8606533440#2255"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025813.800225
-e326025813.909998
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m:3:
-o/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h:10: warning: type of accessor does not match the type of property 'nextButton'
-lSLF07#2@117"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m326025813#326025813#0(324"In file included from /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m:3:/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h:10: warning: type of accessor does not match the type of property 'nextButton'1(22@65"Type of accessor does not match the type of property 'nextButton'326025813#135#189#2(7@131"In file included from /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m326025813#18446744073709551615#0#0(6@109"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m326025792#3#0#3#0#0"0(13@178"Type of accessor does not match the type of property 'nextButton' in /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h326025813#18446744073709551615#0#0(6@109"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h326025792#10#0#10#0#0"0(6@109"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.h326025792#10#0#10#0#0"0(0#0#109"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m8601885920#2530"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/FirstViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/FirstViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785826.721759
-e305785826.914894
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m305785826#305785826#0(0"0(0#0#86"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m8627188384#2223"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973248.334629
-e307973248.425307
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@98"Compile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m307973248#307973248#0(0"0(0#0#90"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m8599334272#2267"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025813.799168
-e326025813.895160
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@123"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m326025813#326025813#0(0"0(0#0#115"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m8602248800#2542"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/NavigationTestAppDelegate.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTestAppDelegate.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785826.914997
-e305785826.999960
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m305785826#305785827#0(0"0(0#0#78"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m8626340096#2207"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/Classes/RedViewController.m -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973248.425412
-e307973248.531572
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m307973248#307973248#0(0"0(0#0#82"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m8620193664#2251"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025813.895260
-e326025813.997079
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@115"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m326025813#326025813#0(0"0(0#0#107"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m8599301696#2526"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/Classes/RedViewController.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/RedViewController.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785826.720377
-e305785826.896552
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m305785826#305785826#0(0"0(0#0#57"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m8605452288#2173"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/main.m -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973248.333207
-e307973248.396286
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m307973248#307973248#0(0"0(0#0#61"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m8601022624#2217"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/main.m -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o0#
-
-CCompileC build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025700.341781
-e326025700.412001
-r1
-xCompileC
-xbuild/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m326025700#326025700#0(0"0(0#0#86"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m8602706976#2492"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -include /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/main.m -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/pmarturano/Desktop/Day2_Code/NavigationTest/BlueView.xib
-s305785824.758015
-e305785825.145634
-r1
-xCompileXIB
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/BlueView.xib
-lSLF07#2@23"CompileXIB BlueView.xib305785824#305785825#0(0"0(0#0#63"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/BlueView.xib8617139648#609"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/BlueView.nib /Users/pmarturano/Desktop/Day2_Code/NavigationTest/BlueView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB /Users/pmarturano/Desktop/Day2_Code/NavigationTest/FirstView.xib
-s305785824.329556
-e305785824.725469
-r1
-xCompileXIB
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/FirstView.xib
-lSLF07#2@24"CompileXIB FirstView.xib305785824#305785824#0(0"0(0#0#64"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/FirstView.xib8624656256#611"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/FirstView.nib /Users/pmarturano/Desktop/Day2_Code/NavigationTest/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB /Users/pmarturano/Desktop/Day2_Code/NavigationTest/MainWindow.xib
-s305785824.272211
-e305785824.757930
-r1
-xCompileXIB
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib305785824#305785824#0(0"0(0#0#65"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/MainWindow.xib8627460960#613"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/MainWindow.nib /Users/pmarturano/Desktop/Day2_Code/NavigationTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB /Users/pmarturano/Desktop/Day2_Code/NavigationTest/RedView.xib
-s305785824.725556
-e305785825.123622
-r1
-xCompileXIB
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/RedView.xib
-lSLF07#2@22"CompileXIB RedView.xib305785824#305785825#0(0"0(0#0#62"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/RedView.xib8617521664#607"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/RedView.nib /Users/pmarturano/Desktop/Day2_Code/NavigationTest/RedView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/BlueView.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/FirstView.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/MainWindow.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/RedView.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/BlueView.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/FirstView.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/MainWindow.xib
-r0
-
-CCompileXIB /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/RedView.xib
-r0
-
-CGenerateDSYMFile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-s305785827.238569
-e305785827.302233
-r1
-xGenerateDSYMFile
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/NavigationTest.app.dSYM build/Debug-iphonesimulator/NavigationTest.app/NavigationTest305785827#305785827#0(0"0(0#0#112"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest8627125024#440"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM0#
-
-CGenerateDSYMFile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-s307973248.614444
-e307973248.651875
-r1
-xGenerateDSYMFile
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/NavigationTest.app.dSYM build/Debug-iphonesimulator/NavigationTest.app/NavigationTest307973248#307973248#0(0"0(0#0#116"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest8609814720#452"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM0#
-
-CGenerateDSYMFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-s326025814.046433
-e326025814.075267
-r1
-xGenerateDSYMFile
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/NavigationTest.app.dSYM build/Debug-iphonesimulator/NavigationTest.app/NavigationTest326025814#326025814#0(0"0(0#0#141"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest8606310560#527"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app.dSYM0#
-
-CLd /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest normal i386
-s305785827.020795
-e305785827.238465
-r1
-xLd
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-xnormal
-xi386
-lSLF07#2@117"Link /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest305785827#305785827#0(0"0(0#0#0"8620127552#995"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -filelist /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest0#
-
-CLd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest normal i386
-s307973248.584223
-e307973248.614345
-r1
-xLd
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-xnormal
-xi386
-lSLF07#2@121"Link /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest307973248#307973248#0(0"0(0#0#0"8617180416#1015"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest0#
-
-CLd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest normal i386
-s326025814.018454
-e326025814.046320
-r1
-xLd
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest
-xnormal
-xi386
-lSLF07#2@146"Link /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest326025814#326025814#0(0"0(0#0#0"8606470368#1140"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -filelist /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/Objects-normal/i386/NavigationTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/NavigationTest0#
-
-CProcessInfoPlistFile /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist NavigationTest-Info.plist
-s305785824.259962
-e305785824.272129
-r1
-xProcessInfoPlistFile
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist
-xNavigationTest-Info.plist
-lSLF07#2@33"Process NavigationTest-Info.plist305785824#305785824#0(0"0(0#0#76"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/NavigationTest-Info.plist8626191008#536"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavigationTest-Info.plist -genpkginfo /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist0#
-
-CProcessInfoPlistFile /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist NavigationTest-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app/Info.plist NavigationTest-Info.plist
-r0
-
-CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch.gch NavigationTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s305785825.145759
-e305785826.720188
-r1
-xProcessPCH
-x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch.gch
-xNavigationTest_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile NavigationTest_Prefix.pch305785825#305785826#0(0"0(0#0#76"/Users/pmarturano/Desktop/Day2_Code/NavigationTest/NavigationTest_Prefix.pch8627681312#2046"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/NavigationTest_Prefix.pch -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-bxxdbvaykbcaqqcmpltqynbqbvve/NavigationTest_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch.gch NavigationTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s326025699.383099
-e326025700.341678
-r1
-xProcessPCH
-x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch.gch
-xNavigationTest_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile NavigationTest_Prefix.pch326025699#326025700#0(0"0(0#0#105"/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch8602668768#2336"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-cclewynvzalckzcvpsbxqzlisjeg/NavigationTest_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch.gch NavigationTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s307973247.574870
-e307973248.332948
-r1
-xProcessPCH
-x/var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch.gch
-xNavigationTest_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile NavigationTest_Prefix.pch307973247#307973248#0(0"0(0#0#80"/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch8605014880#2086"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-generated-files.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-own-target-headers.hmap -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-all-target-headers.hmap -iquote /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/NavigationTest-project-headers.hmap -F/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/include -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources/i386 -I/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/NavigationTest.build/Debug-iphonesimulator/NavigationTest.build/DerivedSources -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/NavigationTest_Prefix.pch -o /var/folders/hA/hApPf95oHoifCM5fcAUr6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigationTest_Prefix-eciirszvfdasjgamffugnvadgtdn/NavigationTest_Prefix.pch.gch0#
-
-CTouch /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-s305785827.302322
-e305785827.570750
-r1
-xTouch
-x/Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-lSLF07#2@103"Touch /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app305785827#305785827#0(0"0(0#0#0"8625916544#309"    cd /Users/pmarturano/Desktop/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pmarturano/Desktop/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app0#
-
-CTouch /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-s307973248.652150
-e307973248.655118
-r1
-xTouch
-x/Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-lSLF07#2@107"Touch /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app307973248#307973248#0(0"0(0#0#0"8606675296#317"    cd /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app0#
-
-CTouch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-s326025814.075360
-e326025814.080118
-r1
-xTouch
-x/Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app
-lSLF07#2@132"Touch /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app326025814#326025814#0(0"0(0#0#0"8604117184#367"    cd /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vincenzo/Desktop/HD/iOSDev/Documentazione/Corso/Day2_Code/NavigationTest/build/Debug-iphonesimulator/NavigationTest.app0#
-

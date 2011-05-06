@@ -1,351 +1,0 @@
-TWebWork
-v7
-r0
-t295524580.464846
-cCheck dependencies
-cProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist" WebWork-Info.plist
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib"
-cCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib"
-cCpResource build/Debug-iphonesimulator/WebWork.app/blue_get.png blue_get.png
-cCpResource build/Debug-iphonesimulator/WebWork.app/green_get.png green_get.png
-cCpResource build/Debug-iphonesimulator/WebWork.app/image.png image.png
-cCpResource build/Debug-iphonesimulator/WebWork.app/lavender_get.png lavender_get.png
-cCpResource build/Debug-iphonesimulator/WebWork.app/text.png text.png
-cProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" normal i386
-cGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"
-cTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
-c000000004BB7891300000000000000EE
-t1270319379
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004ABDC853000000000026EE30
-t1253951571
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004ABDC952000000000027E880
-t1253951826
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004ABDC93F0000000000001355
-t1253951807
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004ABDEE1D0000000000000788
-t1253961245
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004ABDEEE200000000016721E0
-t1253961442
-s23536096
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.h
-c000000004BECEB1A0000000000000179
-t1273817882
-s377
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m
-c000000004BECEB1A0000000000000204
-t1273817882
-s516
-i"WebWorkAppDelegate.h"
-i"WebWorkViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.h
-c000000004BECEAFC00000000000003D4
-t1273817852
-s980
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m
-c000000004B11831800000000000023A0
-t1259438872
-s9120
-i"WebWorkViewController.h"
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib
-c000000004B118318000000000000244E
-t1259438872
-s9294
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib
-c000000004B1183180000000000009771
-t1259438872
-s38769
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch
-c000000004B11831800000000000000B7
-t1259438872
-s183
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png
-c000000004B1183180000000000000BAF
-t1259438872
-s2991
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app
-t1273831780
-s408
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
-t1273831780
-s102
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
-t1273831779
-s593
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib
-t1273831779
-s1479
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo
-t1273831779
-s8
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
-t1273831780
-s31240
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib
-t1273831779
-s6035
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/blue_get.png
-t1273831779
-s2991
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/green_get.png
-t1273831779
-s2871
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/image.png
-t1273831779
-s4602
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/lavender_get.png
-t1273831779
-s3027
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/text.png
-t1273831779
-s3962
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList
-c000000004BED21630000000000000256
-t1273831779
-s598
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
-t1273831780
-s40464
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
-t1273831780
-s59000
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
-t1273831780
-s6084
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png
-c000000004B1183180000000000000B37
-t1259438872
-s2871
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png
-c000000004B11831800000000000011FA
-t1259438872
-s4602
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png
-c000000004B1183180000000000000BD3
-t1259438872
-s3027
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m
-c000000004B118318000000000000015D
-t1259438872
-s349
-i<UIKit/UIKit.h>
-
-N/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png
-c000000004B1183180000000000000F7A
-t1259438872
-s3962
-
-N/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch
-t1273831780
-s13026768
-
-NWebWork-Info.plist
-c000000004B118318000000000000038D
-t1259438872
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies295524579#295524579#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295524580.301494
-e295524580.364709
-r1
-xCompileC
-xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@142"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m295524580#295524580#0(0"0(0#0#134"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m4300911832#2654"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkAppDelegate.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkAppDelegate.o"0#
-
-CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295524580.350188
-e295524580.431576
-r1
-xCompileC
-xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@145"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m295524580#295524580#0(0"0(0#0#137"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m4300911832#2660"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/Classes/WebWorkViewController.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWorkViewController.o"0#
-
-CCompileC build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s295524580.300355
-e295524580.350083
-r1
-xCompileC
-xbuild/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@120"Compile /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m295524580#295524580#0(0"0(0#0#112"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m4300911832#2618"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -include /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/main.m" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib"
-s295524579.077511
-e295524579.343803
-r1
-xCompileXIB
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib295524579#295524579#0(0"0(0#0#120"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib4300911832#689"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/MainWindow.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/MainWindow.xib"0#
-
-CCompileXIB "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib"
-s295524579.078120
-e295524579.519077
-r1
-xCompileXIB
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib
-lSLF07#2@36"CompileXIB WebWorkViewController.xib295524579#295524579#0(0"0(0#0#131"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib4300911832#711"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWorkViewController.nib" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWorkViewController.xib"0#
-
-CCpResource build/Debug-iphonesimulator/WebWork.app/blue_get.png blue_get.png
-s295524579.343881
-e295524579.438422
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/WebWork.app/blue_get.png
-xblue_get.png
-lSLF07#2@17"Copy blue_get.png295524579#295524579#0(0"0(0#0#118"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png4300911832#663"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/blue_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
-CCpResource build/Debug-iphonesimulator/WebWork.app/green_get.png green_get.png
-s295524579.344516
-e295524579.437523
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/WebWork.app/green_get.png
-xgreen_get.png
-lSLF07#2@18"Copy green_get.png295524579#295524579#0(0"0(0#0#119"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png4300911832#664"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/green_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
-CCpResource build/Debug-iphonesimulator/WebWork.app/image.png image.png
-s295524579.345030
-e295524579.441881
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/WebWork.app/image.png
-ximage.png
-lSLF07#2@14"Copy image.png295524579#295524579#0(0"0(0#0#115"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png4300911832#660"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/image.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
-CCpResource build/Debug-iphonesimulator/WebWork.app/lavender_get.png lavender_get.png
-s295524579.345523
-e295524579.442009
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/WebWork.app/lavender_get.png
-xlavender_get.png
-lSLF07#2@21"Copy lavender_get.png295524579#295524579#0(0"0(0#0#122"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png4300911832#667"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/lavender_get.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
-CCpResource build/Debug-iphonesimulator/WebWork.app/text.png text.png
-s295524579.346007
-e295524579.441108
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/WebWork.app/text.png
-xtext.png
-lSLF07#2@13"Copy text.png295524579#295524579#0(0"0(0#0#114"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png4300911832#659"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/text.png" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
-CGenerateDSYMFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM" "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"
-s295524580.449102
-e295524580.462180
-r1
-xGenerateDSYMFile
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/WebWork.app.dSYM build/Debug-iphonesimulator/WebWork.app/WebWork295524580#295524580#0(0"0(0#0#153"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork4300911832#590"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app.dSYM"0#
-
-CLd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork" normal i386
-s295524580.431768
-e295524580.448995
-r1
-xLd
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork
-xnormal
-xi386
-lSLF07#2@158"Link /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork295524580#295524580#0(0"0(0#0#0"4300911832#1209"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" -filelist "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/Objects-normal/i386/WebWork.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/WebWork"0#
-
-CProcessInfoPlistFile "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist" WebWork-Info.plist
-s295524579.073924
-e295524579.077439
-r1
-xProcessInfoPlistFile
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist
-xWebWork-Info.plist
-lSLF07#2@26"Process WebWork-Info.plist295524579#295524579#0(0"0(0#0#124"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork-Info.plist4300911832#686"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebWork-Info.plist -genpkginfo "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app/Info.plist"0#
-
-CProcessPCH /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch WebWork_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s295524579.519198
-e295524580.300244
-r1
-xProcessPCH
-x/var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch
-xWebWork_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile WebWork_Prefix.pch295524579#295524580#0(0"0(0#0#124"/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch4300911832#2441"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-generated-files.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-own-target-headers.hmap" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-all-target-headers.hmap" -iquote "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/WebWork-project-headers.hmap" "-F/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/include" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources/i386" "-I/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/WebWork.build/Debug-iphonesimulator/WebWork.build/DerivedSources" -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/WebWork_Prefix.pch" -o /var/folders/6m/6mM06rF4GwatZ5hkOJ1TrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebWork_Prefix-buiycwxzxzsmyybxmjqclyswooti/WebWork_Prefix.pch.gch0#
-
-CTouch "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"
-s295524580.462263
-e295524580.464815
-r1
-xTouch
-x/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app
-lSLF07#2@151"Touch /Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app295524580#295524580#0(0"0(0#0#0"4300911832#416"    cd "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pmarturano/Documents/Progetto_iPhoneDeveloper/CorsoTorino/Corso Università/14_05_2010/10 WebWork/build/Debug-iphonesimulator/WebWork.app"0#
-
